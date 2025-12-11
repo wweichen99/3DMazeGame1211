@@ -1,0 +1,9309 @@
+{
+  "sessionInfo": {
+    "startTime": 1765391093506,
+    "endTime": 1765391164106,
+    "totalLogEntries": 273
+  },
+  "mapInfo": {
+    "width": 15,
+    "height": 23
+  },
+  "minimapHeatmap": {
+    "hovers": {
+      "14,16": 2,
+      "13,16": 1,
+      "13,15": 1,
+      "12,15": 1,
+      "12,14": 1,
+      "11,14": 1,
+      "11,13": 1,
+      "10,12": 1,
+      "9,11": 1,
+      "9,10": 1,
+      "8,9": 1,
+      "7,8": 2,
+      "6,7": 1,
+      "6,6": 1,
+      "5,5": 2,
+      "5,4": 3,
+      "4,4": 1,
+      "6,0": 1
+    },
+    "clicks": {}
+  },
+  "viewportDwellTime": [
+    {
+      "timestamp": 1765391093506,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391094023,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391094274,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391094533,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391094791,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391095049,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391095308,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391095572,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391095824,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391096082,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391096341,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391096599,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391096857,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391097115,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391097374,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391097632,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391097890,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391098149,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391098407,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391098665,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391098924,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391099182,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391099440,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391099699,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391099957,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391100216,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391100473,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391100724,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391100982,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391101240,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391101498,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391101757,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391102015,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391102273,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391102531,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391102790,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391103048,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391103306,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391103557,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391103815,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391104073,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391104331,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391104590,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391104848,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391105106,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391105357,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391105614,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391105873,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391106131,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391106389,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391106647,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391106906,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391107164,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391107422,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391107673,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391107931,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391108189,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391108440,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391108697,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391108956,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391109214,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391109472,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391109730,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391109981,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391110238,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391110489,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391110747,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391110998,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391111256,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391111514,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391111772,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391112030,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391112289,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391112547,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391112805,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391113063,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391113322,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391113580,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391113838,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391114097,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391114355,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391114606,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391114863,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391115121,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391115380,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391115639,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391115896,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391116154,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391116413,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391116671,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391116930,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391117188,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391117446,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391117704,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391117962,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391118213,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391118471,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391118729,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391118987,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391119246,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391119505,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391119762,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391120021,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391120279,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391120537,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391120796,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391121054,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391121312,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391121563,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391121820,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391122079,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391122337,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391122595,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391122854,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391123112,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391123370,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391123629,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391123887,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391124145,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391124403,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391124662,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391124920,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391125178,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391125437,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391125932,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391126200,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391126453,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391126714,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391126976,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391127240,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391127498,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391127752,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391128003,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391128261,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391128525,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391128779,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391129042,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391129293,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1765391129551,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-775.00"
+      },
+      "targetAngles": {
+        "Start": "0.00",
+        "Exit": "147.48"
+      }
+    },
+    {
+      "timestamp": 1765391129808,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-775.00"
+      },
+      "targetAngles": {
+        "Start": "0.00",
+        "Exit": "147.48"
+      }
+    },
+    {
+      "timestamp": 1765391130059,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-775.00"
+      },
+      "targetAngles": {
+        "Start": "0.00",
+        "Exit": "147.48"
+      }
+    },
+    {
+      "timestamp": 1765391130311,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-775.00"
+      },
+      "targetAngles": {
+        "Start": "6.88",
+        "Exit": "154.35"
+      }
+    },
+    {
+      "timestamp": 1765391130563,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-775.00"
+      },
+      "targetAngles": {
+        "Start": "55.00",
+        "Exit": "157.52"
+      }
+    },
+    {
+      "timestamp": 1765391130821,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-775.00"
+      },
+      "targetAngles": {
+        "Start": "73.34",
+        "Exit": "139.19"
+      }
+    },
+    {
+      "timestamp": 1765391131086,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-775.00"
+      },
+      "targetAngles": {
+        "Start": "103.13",
+        "Exit": "109.39"
+      }
+    },
+    {
+      "timestamp": 1765391131341,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-775.00"
+      },
+      "targetAngles": {
+        "Start": "146.68",
+        "Exit": "65.85"
+      }
+    },
+    {
+      "timestamp": 1765391131592,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-775.00"
+      },
+      "targetAngles": {
+        "Start": "176.47",
+        "Exit": "36.05"
+      }
+    },
+    {
+      "timestamp": 1765391131843,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-775.00"
+      },
+      "targetAngles": {
+        "Start": "165.19",
+        "Exit": "17.72"
+      }
+    },
+    {
+      "timestamp": 1765391132103,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-775.00"
+      },
+      "targetAngles": {
+        "Start": "151.44",
+        "Exit": "3.97"
+      }
+    },
+    {
+      "timestamp": 1765391132367,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-775.00"
+      },
+      "targetAngles": {
+        "Start": "151.44",
+        "Exit": "3.97"
+      }
+    },
+    {
+      "timestamp": 1765391132621,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-775.00"
+      },
+      "targetAngles": {
+        "Start": "117.07",
+        "Exit": "30.41"
+      }
+    },
+    {
+      "timestamp": 1765391132873,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-775.00"
+      },
+      "targetAngles": {
+        "Start": "117.07",
+        "Exit": "30.41"
+      }
+    },
+    {
+      "timestamp": 1765391133128,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-775.00"
+      },
+      "targetAngles": {
+        "Start": "117.07",
+        "Exit": "30.41"
+      }
+    },
+    {
+      "timestamp": 1765391133380,
+      "cameraPos": {
+        "x": "498.98",
+        "y": "50.00",
+        "z": "-800.03"
+      },
+      "targetAngles": {
+        "Start": "72.64",
+        "Exit": "29.65"
+      }
+    },
+    {
+      "timestamp": 1765391133637,
+      "cameraPos": {
+        "x": "521.24",
+        "y": "50.00",
+        "z": "-811.40"
+      },
+      "targetAngles": {
+        "Start": "55.52",
+        "Exit": "29.31"
+      }
+    },
+    {
+      "timestamp": 1765391133897,
+      "cameraPos": {
+        "x": "521.24",
+        "y": "50.00",
+        "z": "-811.40"
+      },
+      "targetAngles": {
+        "Start": "55.52",
+        "Exit": "29.31"
+      }
+    },
+    {
+      "timestamp": 1765391134149,
+      "cameraPos": {
+        "x": "521.24",
+        "y": "50.00",
+        "z": "-811.40"
+      },
+      "targetAngles": {
+        "Start": "55.52",
+        "Exit": "29.31"
+      }
+    },
+    {
+      "timestamp": 1765391134404,
+      "cameraPos": {
+        "x": "521.24",
+        "y": "50.00",
+        "z": "-811.40"
+      },
+      "targetAngles": {
+        "Start": "37.18",
+        "Exit": "47.65"
+      }
+    },
+    {
+      "timestamp": 1765391134660,
+      "cameraPos": {
+        "x": "521.24",
+        "y": "50.00",
+        "z": "-811.40"
+      },
+      "targetAngles": {
+        "Start": "18.85",
+        "Exit": "65.98"
+      }
+    },
+    {
+      "timestamp": 1765391134919,
+      "cameraPos": {
+        "x": "467.01",
+        "y": "50.00",
+        "z": "-820.58"
+      },
+      "targetAngles": {
+        "Start": "50.36",
+        "Exit": "67.36"
+      }
+    },
+    {
+      "timestamp": 1765391135178,
+      "cameraPos": {
+        "x": "383.20",
+        "y": "50.00",
+        "z": "-834.76"
+      },
+      "targetAngles": {
+        "Start": "157.54",
+        "Exit": "69.54"
+      }
+    },
+    {
+      "timestamp": 1765391135433,
+      "cameraPos": {
+        "x": "299.39",
+        "y": "50.00",
+        "z": "-848.94"
+      },
+      "targetAngles": {
+        "Start": "169.99",
+        "Exit": "71.78"
+      }
+    },
+    {
+      "timestamp": 1765391135689,
+      "cameraPos": {
+        "x": "215.58",
+        "y": "50.00",
+        "z": "-863.12"
+      },
+      "targetAngles": {
+        "Start": "173.60",
+        "Exit": "74.08"
+      }
+    },
+    {
+      "timestamp": 1765391135953,
+      "cameraPos": {
+        "x": "176.14",
+        "y": "50.00",
+        "z": "-869.79"
+      },
+      "targetAngles": {
+        "Start": "174.53",
+        "Exit": "75.19"
+      }
+    },
+    {
+      "timestamp": 1765391136205,
+      "cameraPos": {
+        "x": "156.42",
+        "y": "50.00",
+        "z": "-873.13"
+      },
+      "targetAngles": {
+        "Start": "174.90",
+        "Exit": "75.74"
+      }
+    },
+    {
+      "timestamp": 1765391136460,
+      "cameraPos": {
+        "x": "146.56",
+        "y": "50.00",
+        "z": "-874.80"
+      },
+      "targetAngles": {
+        "Start": "175.07",
+        "Exit": "76.02"
+      }
+    },
+    {
+      "timestamp": 1765391136720,
+      "cameraPos": {
+        "x": "146.56",
+        "y": "50.00",
+        "z": "-874.80"
+      },
+      "targetAngles": {
+        "Start": "175.07",
+        "Exit": "76.02"
+      }
+    },
+    {
+      "timestamp": 1765391136978,
+      "cameraPos": {
+        "x": "146.56",
+        "y": "50.00",
+        "z": "-874.80"
+      },
+      "targetAngles": {
+        "Start": "159.72",
+        "Exit": "50.81"
+      }
+    },
+    {
+      "timestamp": 1765391137231,
+      "cameraPos": {
+        "x": "146.56",
+        "y": "50.00",
+        "z": "-874.80"
+      },
+      "targetAngles": {
+        "Start": "155.14",
+        "Exit": "46.23"
+      }
+    },
+    {
+      "timestamp": 1765391137492,
+      "cameraPos": {
+        "x": "146.56",
+        "y": "50.00",
+        "z": "-874.80"
+      },
+      "targetAngles": {
+        "Start": "155.14",
+        "Exit": "46.23"
+      }
+    },
+    {
+      "timestamp": 1765391137750,
+      "cameraPos": {
+        "x": "80.87",
+        "y": "50.00",
+        "z": "-850.64"
+      },
+      "targetAngles": {
+        "Start": "159.71",
+        "Exit": "47.72"
+      }
+    },
+    {
+      "timestamp": 1765391138021,
+      "cameraPos": {
+        "x": "80.87",
+        "y": "50.00",
+        "z": "-850.64"
+      },
+      "targetAngles": {
+        "Start": "136.79",
+        "Exit": "24.80"
+      }
+    },
+    {
+      "timestamp": 1765391138274,
+      "cameraPos": {
+        "x": "80.87",
+        "y": "50.00",
+        "z": "-850.64"
+      },
+      "targetAngles": {
+        "Start": "107.00",
+        "Exit": "4.99"
+      }
+    },
+    {
+      "timestamp": 1765391138526,
+      "cameraPos": {
+        "x": "80.87",
+        "y": "50.00",
+        "z": "-850.64"
+      },
+      "targetAngles": {
+        "Start": "107.00",
+        "Exit": "4.99"
+      }
+    },
+    {
+      "timestamp": 1765391138786,
+      "cameraPos": {
+        "x": "73.52",
+        "y": "50.00",
+        "z": "-826.74"
+      },
+      "targetAngles": {
+        "Start": "110.63",
+        "Exit": "5.06"
+      }
+    },
+    {
+      "timestamp": 1765391139041,
+      "cameraPos": {
+        "x": "47.06",
+        "y": "50.00",
+        "z": "-740.72"
+      },
+      "targetAngles": {
+        "Start": "122.27",
+        "Exit": "5.31"
+      }
+    },
+    {
+      "timestamp": 1765391139292,
+      "cameraPos": {
+        "x": "27.95",
+        "y": "50.00",
+        "z": "-678.59"
+      },
+      "targetAngles": {
+        "Start": "129.20",
+        "Exit": "5.50"
+      }
+    },
+    {
+      "timestamp": 1765391139543,
+      "cameraPos": {
+        "x": "27.95",
+        "y": "50.00",
+        "z": "-678.59"
+      },
+      "targetAngles": {
+        "Start": "129.20",
+        "Exit": "5.50"
+      }
+    },
+    {
+      "timestamp": 1765391139804,
+      "cameraPos": {
+        "x": "27.95",
+        "y": "50.00",
+        "z": "-678.59"
+      },
+      "targetAngles": {
+        "Start": "92.53",
+        "Exit": "42.17"
+      }
+    },
+    {
+      "timestamp": 1765391140059,
+      "cameraPos": {
+        "x": "46.37",
+        "y": "50.00",
+        "z": "-626.77"
+      },
+      "targetAngles": {
+        "Start": "99.37",
+        "Exit": "43.40"
+      }
+    },
+    {
+      "timestamp": 1765391140316,
+      "cameraPos": {
+        "x": "88.24",
+        "y": "50.00",
+        "z": "-508.99"
+      },
+      "targetAngles": {
+        "Start": "113.74",
+        "Exit": "46.41"
+      }
+    },
+    {
+      "timestamp": 1765391140569,
+      "cameraPos": {
+        "x": "133.47",
+        "y": "50.00",
+        "z": "-381.79"
+      },
+      "targetAngles": {
+        "Start": "126.37",
+        "Exit": "50.04"
+      }
+    },
+    {
+      "timestamp": 1765391140825,
+      "cameraPos": {
+        "x": "168.64",
+        "y": "50.00",
+        "z": "-282.86"
+      },
+      "targetAngles": {
+        "Start": "134.04",
+        "Exit": "53.16"
+      }
+    },
+    {
+      "timestamp": 1765391141081,
+      "cameraPos": {
+        "x": "168.64",
+        "y": "50.00",
+        "z": "-282.86"
+      },
+      "targetAngles": {
+        "Start": "134.04",
+        "Exit": "53.16"
+      }
+    },
+    {
+      "timestamp": 1765391141334,
+      "cameraPos": {
+        "x": "168.64",
+        "y": "50.00",
+        "z": "-282.86"
+      },
+      "targetAngles": {
+        "Start": "134.04",
+        "Exit": "53.16"
+      }
+    },
+    {
+      "timestamp": 1765391141587,
+      "cameraPos": {
+        "x": "168.64",
+        "y": "50.00",
+        "z": "-282.86"
+      },
+      "targetAngles": {
+        "Start": "134.04",
+        "Exit": "53.16"
+      }
+    },
+    {
+      "timestamp": 1765391141846,
+      "cameraPos": {
+        "x": "168.64",
+        "y": "50.00",
+        "z": "-282.86"
+      },
+      "targetAngles": {
+        "Start": "159.25",
+        "Exit": "27.95"
+      }
+    },
+    {
+      "timestamp": 1765391142102,
+      "cameraPos": {
+        "x": "168.64",
+        "y": "50.00",
+        "z": "-282.86"
+      },
+      "targetAngles": {
+        "Start": "163.84",
+        "Exit": "23.36"
+      }
+    },
+    {
+      "timestamp": 1765391142367,
+      "cameraPos": {
+        "x": "168.64",
+        "y": "50.00",
+        "z": "-282.86"
+      },
+      "targetAngles": {
+        "Start": "173.00",
+        "Exit": "14.20"
+      }
+    },
+    {
+      "timestamp": 1765391142625,
+      "cameraPos": {
+        "x": "168.64",
+        "y": "50.00",
+        "z": "-282.86"
+      },
+      "targetAngles": {
+        "Start": "148.04",
+        "Exit": "24.77"
+      }
+    },
+    {
+      "timestamp": 1765391142876,
+      "cameraPos": {
+        "x": "168.64",
+        "y": "50.00",
+        "z": "-282.86"
+      },
+      "targetAngles": {
+        "Start": "106.78",
+        "Exit": "66.02"
+      }
+    },
+    {
+      "timestamp": 1765391143129,
+      "cameraPos": {
+        "x": "168.64",
+        "y": "50.00",
+        "z": "-282.86"
+      },
+      "targetAngles": {
+        "Start": "106.78",
+        "Exit": "66.02"
+      }
+    },
+    {
+      "timestamp": 1765391143383,
+      "cameraPos": {
+        "x": "168.64",
+        "y": "50.00",
+        "z": "-282.86"
+      },
+      "targetAngles": {
+        "Start": "106.78",
+        "Exit": "66.02"
+      }
+    },
+    {
+      "timestamp": 1765391143634,
+      "cameraPos": {
+        "x": "168.64",
+        "y": "50.00",
+        "z": "-282.86"
+      },
+      "targetAngles": {
+        "Start": "106.78",
+        "Exit": "66.02"
+      }
+    },
+    {
+      "timestamp": 1765391143896,
+      "cameraPos": {
+        "x": "168.64",
+        "y": "50.00",
+        "z": "-282.86"
+      },
+      "targetAngles": {
+        "Start": "106.78",
+        "Exit": "66.02"
+      }
+    },
+    {
+      "timestamp": 1765391144155,
+      "cameraPos": {
+        "x": "168.64",
+        "y": "50.00",
+        "z": "-282.86"
+      },
+      "targetAngles": {
+        "Start": "65.53",
+        "Exit": "107.27"
+      }
+    },
+    {
+      "timestamp": 1765391144409,
+      "cameraPos": {
+        "x": "168.64",
+        "y": "50.00",
+        "z": "-282.86"
+      },
+      "targetAngles": {
+        "Start": "17.40",
+        "Exit": "155.40"
+      }
+    },
+    {
+      "timestamp": 1765391144675,
+      "cameraPos": {
+        "x": "168.64",
+        "y": "50.00",
+        "z": "-282.86"
+      },
+      "targetAngles": {
+        "Start": "14.68",
+        "Exit": "172.51"
+      }
+    },
+    {
+      "timestamp": 1765391144931,
+      "cameraPos": {
+        "x": "168.64",
+        "y": "50.00",
+        "z": "-282.86"
+      },
+      "targetAngles": {
+        "Start": "14.68",
+        "Exit": "172.51"
+      }
+    },
+    {
+      "timestamp": 1765391145182,
+      "cameraPos": {
+        "x": "191.64",
+        "y": "50.00",
+        "z": "-309.24"
+      },
+      "targetAngles": {
+        "Start": "15.53",
+        "Exit": "172.69"
+      }
+    },
+    {
+      "timestamp": 1765391145434,
+      "cameraPos": {
+        "x": "260.62",
+        "y": "50.00",
+        "z": "-388.40"
+      },
+      "targetAngles": {
+        "Start": "18.76",
+        "Exit": "173.16"
+      }
+    },
+    {
+      "timestamp": 1765391145701,
+      "cameraPos": {
+        "x": "296.75",
+        "y": "50.00",
+        "z": "-429.87"
+      },
+      "targetAngles": {
+        "Start": "21.03",
+        "Exit": "173.38"
+      }
+    },
+    {
+      "timestamp": 1765391145969,
+      "cameraPos": {
+        "x": "296.75",
+        "y": "50.00",
+        "z": "-429.87"
+      },
+      "targetAngles": {
+        "Start": "16.45",
+        "Exit": "177.97"
+      }
+    },
+    {
+      "timestamp": 1765391146234,
+      "cameraPos": {
+        "x": "296.75",
+        "y": "50.00",
+        "z": "-429.87"
+      },
+      "targetAngles": {
+        "Start": "15.64",
+        "Exit": "149.95"
+      }
+    },
+    {
+      "timestamp": 1765391146497,
+      "cameraPos": {
+        "x": "296.75",
+        "y": "50.00",
+        "z": "-429.87"
+      },
+      "targetAngles": {
+        "Start": "15.64",
+        "Exit": "149.95"
+      }
+    },
+    {
+      "timestamp": 1765391146754,
+      "cameraPos": {
+        "x": "302.12",
+        "y": "50.00",
+        "z": "-499.66"
+      },
+      "targetAngles": {
+        "Start": "18.48",
+        "Exit": "151.10"
+      }
+    },
+    {
+      "timestamp": 1765391147009,
+      "cameraPos": {
+        "x": "310.18",
+        "y": "50.00",
+        "z": "-604.35"
+      },
+      "targetAngles": {
+        "Start": "25.25",
+        "Exit": "152.70"
+      }
+    },
+    {
+      "timestamp": 1765391147260,
+      "cameraPos": {
+        "x": "311.33",
+        "y": "50.00",
+        "z": "-619.31"
+      },
+      "targetAngles": {
+        "Start": "26.61",
+        "Exit": "152.91"
+      }
+    },
+    {
+      "timestamp": 1765391147525,
+      "cameraPos": {
+        "x": "311.33",
+        "y": "50.00",
+        "z": "-619.31"
+      },
+      "targetAngles": {
+        "Start": "22.02",
+        "Exit": "157.49"
+      }
+    },
+    {
+      "timestamp": 1765391147785,
+      "cameraPos": {
+        "x": "311.33",
+        "y": "50.00",
+        "z": "-619.31"
+      },
+      "targetAngles": {
+        "Start": "5.98",
+        "Exit": "173.54"
+      }
+    },
+    {
+      "timestamp": 1765391148044,
+      "cameraPos": {
+        "x": "353.64",
+        "y": "50.00",
+        "z": "-709.92"
+      },
+      "targetAngles": {
+        "Start": "9.50",
+        "Exit": "173.87"
+      }
+    },
+    {
+      "timestamp": 1765391148307,
+      "cameraPos": {
+        "x": "353.64",
+        "y": "50.00",
+        "z": "-709.92"
+      },
+      "targetAngles": {
+        "Start": "9.50",
+        "Exit": "173.87"
+      }
+    },
+    {
+      "timestamp": 1765391148565,
+      "cameraPos": {
+        "x": "353.64",
+        "y": "50.00",
+        "z": "-709.92"
+      },
+      "targetAngles": {
+        "Start": "55.33",
+        "Exit": "128.03"
+      }
+    },
+    {
+      "timestamp": 1765391148820,
+      "cameraPos": {
+        "x": "353.64",
+        "y": "50.00",
+        "z": "-709.92"
+      },
+      "targetAngles": {
+        "Start": "103.46",
+        "Exit": "79.90"
+      }
+    },
+    {
+      "timestamp": 1765391149074,
+      "cameraPos": {
+        "x": "353.64",
+        "y": "50.00",
+        "z": "-709.92"
+      },
+      "targetAngles": {
+        "Start": "128.67",
+        "Exit": "54.69"
+      }
+    },
+    {
+      "timestamp": 1765391149328,
+      "cameraPos": {
+        "x": "353.64",
+        "y": "50.00",
+        "z": "-709.92"
+      },
+      "targetAngles": {
+        "Start": "133.25",
+        "Exit": "50.11"
+      }
+    },
+    {
+      "timestamp": 1765391149583,
+      "cameraPos": {
+        "x": "353.64",
+        "y": "50.00",
+        "z": "-709.92"
+      },
+      "targetAngles": {
+        "Start": "169.92",
+        "Exit": "13.44"
+      }
+    },
+    {
+      "timestamp": 1765391149841,
+      "cameraPos": {
+        "x": "353.64",
+        "y": "50.00",
+        "z": "-709.92"
+      },
+      "targetAngles": {
+        "Start": "169.92",
+        "Exit": "13.44"
+      }
+    },
+    {
+      "timestamp": 1765391150101,
+      "cameraPos": {
+        "x": "325.55",
+        "y": "50.00",
+        "z": "-681.44"
+      },
+      "targetAngles": {
+        "Start": "171.84",
+        "Exit": "13.72"
+      }
+    },
+    {
+      "timestamp": 1765391150361,
+      "cameraPos": {
+        "x": "325.55",
+        "y": "50.00",
+        "z": "-681.44"
+      },
+      "targetAngles": {
+        "Start": "171.84",
+        "Exit": "13.72"
+      }
+    },
+    {
+      "timestamp": 1765391150614,
+      "cameraPos": {
+        "x": "325.55",
+        "y": "50.00",
+        "z": "-681.44"
+      },
+      "targetAngles": {
+        "Start": "171.84",
+        "Exit": "13.72"
+      }
+    },
+    {
+      "timestamp": 1765391150873,
+      "cameraPos": {
+        "x": "325.55",
+        "y": "50.00",
+        "z": "-681.44"
+      },
+      "targetAngles": {
+        "Start": "160.66",
+        "Exit": "13.78"
+      }
+    },
+    {
+      "timestamp": 1765391151131,
+      "cameraPos": {
+        "x": "325.55",
+        "y": "50.00",
+        "z": "-681.44"
+      },
+      "targetAngles": {
+        "Start": "142.33",
+        "Exit": "32.12"
+      }
+    },
+    {
+      "timestamp": 1765391151385,
+      "cameraPos": {
+        "x": "327.39",
+        "y": "50.00",
+        "z": "-596.46"
+      },
+      "targetAngles": {
+        "Start": "152.95",
+        "Exit": "33.53"
+      }
+    },
+    {
+      "timestamp": 1765391151648,
+      "cameraPos": {
+        "x": "329.87",
+        "y": "50.00",
+        "z": "-481.48"
+      },
+      "targetAngles": {
+        "Start": "160.71",
+        "Exit": "35.63"
+      }
+    },
+    {
+      "timestamp": 1765391151904,
+      "cameraPos": {
+        "x": "332.14",
+        "y": "50.00",
+        "z": "-376.51"
+      },
+      "targetAngles": {
+        "Start": "164.78",
+        "Exit": "37.75"
+      }
+    },
+    {
+      "timestamp": 1765391152166,
+      "cameraPos": {
+        "x": "332.14",
+        "y": "50.00",
+        "z": "-376.51"
+      },
+      "targetAngles": {
+        "Start": "163.13",
+        "Exit": "5.67"
+      }
+    },
+    {
+      "timestamp": 1765391152423,
+      "cameraPos": {
+        "x": "332.14",
+        "y": "50.00",
+        "z": "-376.51"
+      },
+      "targetAngles": {
+        "Start": "147.09",
+        "Exit": "10.38"
+      }
+    },
+    {
+      "timestamp": 1765391152680,
+      "cameraPos": {
+        "x": "273.73",
+        "y": "50.00",
+        "z": "-321.84"
+      },
+      "targetAngles": {
+        "Start": "151.56",
+        "Exit": "10.90"
+      }
+    },
+    {
+      "timestamp": 1765391152932,
+      "cameraPos": {
+        "x": "186.13",
+        "y": "50.00",
+        "z": "-239.83"
+      },
+      "targetAngles": {
+        "Start": "156.50",
+        "Exit": "11.79"
+      }
+    },
+    {
+      "timestamp": 1765391153190,
+      "cameraPos": {
+        "x": "131.37",
+        "y": "50.00",
+        "z": "-188.58"
+      },
+      "targetAngles": {
+        "Start": "158.83",
+        "Exit": "12.43"
+      }
+    },
+    {
+      "timestamp": 1765391153448,
+      "cameraPos": {
+        "x": "131.37",
+        "y": "50.00",
+        "z": "-188.58"
+      },
+      "targetAngles": {
+        "Start": "158.83",
+        "Exit": "12.43"
+      }
+    },
+    {
+      "timestamp": 1765391153700,
+      "cameraPos": {
+        "x": "131.37",
+        "y": "50.00",
+        "z": "-188.58"
+      },
+      "targetAngles": {
+        "Start": "147.37",
+        "Exit": "23.89"
+      }
+    },
+    {
+      "timestamp": 1765391153956,
+      "cameraPos": {
+        "x": "131.37",
+        "y": "50.00",
+        "z": "-188.58"
+      },
+      "targetAngles": {
+        "Start": "124.45",
+        "Exit": "46.81"
+      }
+    },
+    {
+      "timestamp": 1765391154215,
+      "cameraPos": {
+        "x": "131.37",
+        "y": "50.00",
+        "z": "-188.58"
+      },
+      "targetAngles": {
+        "Start": "124.45",
+        "Exit": "46.81"
+      }
+    },
+    {
+      "timestamp": 1765391154475,
+      "cameraPos": {
+        "x": "131.37",
+        "y": "50.00",
+        "z": "-188.58"
+      },
+      "targetAngles": {
+        "Start": "124.45",
+        "Exit": "46.81"
+      }
+    },
+    {
+      "timestamp": 1765391154728,
+      "cameraPos": {
+        "x": "131.37",
+        "y": "50.00",
+        "z": "-188.58"
+      },
+      "targetAngles": {
+        "Start": "172.58",
+        "Exit": "1.32"
+      }
+    },
+    {
+      "timestamp": 1765391154983,
+      "cameraPos": {
+        "x": "131.37",
+        "y": "50.00",
+        "z": "-188.58"
+      },
+      "targetAngles": {
+        "Start": "155.33",
+        "Exit": "33.41"
+      }
+    },
+    {
+      "timestamp": 1765391155245,
+      "cameraPos": {
+        "x": "131.37",
+        "y": "50.00",
+        "z": "-188.58"
+      },
+      "targetAngles": {
+        "Start": "155.33",
+        "Exit": "33.41"
+      }
+    },
+    {
+      "timestamp": 1765391155499,
+      "cameraPos": {
+        "x": "131.37",
+        "y": "50.00",
+        "z": "-188.58"
+      },
+      "targetAngles": {
+        "Start": "155.33",
+        "Exit": "33.41"
+      }
+    },
+    {
+      "timestamp": 1765391155753,
+      "cameraPos": {
+        "x": "131.37",
+        "y": "50.00",
+        "z": "-188.58"
+      },
+      "targetAngles": {
+        "Start": "155.33",
+        "Exit": "33.41"
+      }
+    },
+    {
+      "timestamp": 1765391156013,
+      "cameraPos": {
+        "x": "131.37",
+        "y": "50.00",
+        "z": "-188.58"
+      },
+      "targetAngles": {
+        "Start": "171.38",
+        "Exit": "17.36"
+      }
+    },
+    {
+      "timestamp": 1765391156266,
+      "cameraPos": {
+        "x": "131.37",
+        "y": "50.00",
+        "z": "-188.58"
+      },
+      "targetAngles": {
+        "Start": "177.16",
+        "Exit": "5.90"
+      }
+    },
+    {
+      "timestamp": 1765391156535,
+      "cameraPos": {
+        "x": "100.30",
+        "y": "50.00",
+        "z": "-131.48"
+      },
+      "targetAngles": {
+        "Start": "177.40",
+        "Exit": "6.20"
+      }
+    },
+    {
+      "timestamp": 1765391156790,
+      "cameraPos": {
+        "x": "71.62",
+        "y": "50.00",
+        "z": "-78.78"
+      },
+      "targetAngles": {
+        "Start": "177.58",
+        "Exit": "6.49"
+      }
+    },
+    {
+      "timestamp": 1765391157049,
+      "cameraPos": {
+        "x": "71.62",
+        "y": "50.00",
+        "z": "-78.78"
+      },
+      "targetAngles": {
+        "Start": "177.58",
+        "Exit": "6.49"
+      }
+    },
+    {
+      "timestamp": 1765391157309,
+      "cameraPos": {
+        "x": "71.62",
+        "y": "50.00",
+        "z": "-78.78"
+      },
+      "targetAngles": {
+        "Start": "177.58",
+        "Exit": "6.49"
+      }
+    },
+    {
+      "timestamp": 1765391157570,
+      "cameraPos": {
+        "x": "90.74",
+        "y": "50.00",
+        "z": "-113.92"
+      },
+      "targetAngles": {
+        "Start": "177.46",
+        "Exit": "6.29"
+      }
+    },
+    {
+      "timestamp": 1765391157828,
+      "cameraPos": {
+        "x": "138.54",
+        "y": "50.00",
+        "z": "-201.75"
+      },
+      "targetAngles": {
+        "Start": "177.11",
+        "Exit": "5.84"
+      }
+    },
+    {
+      "timestamp": 1765391158081,
+      "cameraPos": {
+        "x": "172.00",
+        "y": "50.00",
+        "z": "-263.24"
+      },
+      "targetAngles": {
+        "Start": "176.79",
+        "Exit": "5.56"
+      }
+    },
+    {
+      "timestamp": 1765391158353,
+      "cameraPos": {
+        "x": "172.00",
+        "y": "50.00",
+        "z": "-263.24"
+      },
+      "targetAngles": {
+        "Start": "176.79",
+        "Exit": "5.56"
+      }
+    },
+    {
+      "timestamp": 1765391158615,
+      "cameraPos": {
+        "x": "172.00",
+        "y": "50.00",
+        "z": "-263.24"
+      },
+      "targetAngles": {
+        "Start": "176.79",
+        "Exit": "5.56"
+      }
+    },
+    {
+      "timestamp": 1765391158879,
+      "cameraPos": {
+        "x": "172.00",
+        "y": "50.00",
+        "z": "-263.24"
+      },
+      "targetAngles": {
+        "Start": "176.79",
+        "Exit": "5.56"
+      }
+    },
+    {
+      "timestamp": 1765391159141,
+      "cameraPos": {
+        "x": "172.00",
+        "y": "50.00",
+        "z": "-263.24"
+      },
+      "targetAngles": {
+        "Start": "176.79",
+        "Exit": "5.56"
+      }
+    },
+    {
+      "timestamp": 1765391159399,
+      "cameraPos": {
+        "x": "172.00",
+        "y": "50.00",
+        "z": "-263.24"
+      },
+      "targetAngles": {
+        "Start": "176.79",
+        "Exit": "5.56"
+      }
+    },
+    {
+      "timestamp": 1765391159660,
+      "cameraPos": {
+        "x": "172.00",
+        "y": "50.00",
+        "z": "-263.24"
+      },
+      "targetAngles": {
+        "Start": "176.79",
+        "Exit": "5.56"
+      }
+    },
+    {
+      "timestamp": 1765391159915,
+      "cameraPos": {
+        "x": "172.00",
+        "y": "50.00",
+        "z": "-263.24"
+      },
+      "targetAngles": {
+        "Start": "176.79",
+        "Exit": "5.56"
+      }
+    },
+    {
+      "timestamp": 1765391160170,
+      "cameraPos": {
+        "x": "172.00",
+        "y": "50.00",
+        "z": "-263.24"
+      },
+      "targetAngles": {
+        "Start": "176.79",
+        "Exit": "5.56"
+      }
+    },
+    {
+      "timestamp": 1765391160431,
+      "cameraPos": {
+        "x": "172.00",
+        "y": "50.00",
+        "z": "-263.24"
+      },
+      "targetAngles": {
+        "Start": "176.79",
+        "Exit": "5.56"
+      }
+    },
+    {
+      "timestamp": 1765391160690,
+      "cameraPos": {
+        "x": "172.00",
+        "y": "50.00",
+        "z": "-263.24"
+      },
+      "targetAngles": {
+        "Start": "176.79",
+        "Exit": "5.56"
+      }
+    },
+    {
+      "timestamp": 1765391160960,
+      "cameraPos": {
+        "x": "172.00",
+        "y": "50.00",
+        "z": "-263.24"
+      },
+      "targetAngles": {
+        "Start": "176.79",
+        "Exit": "5.56"
+      }
+    },
+    {
+      "timestamp": 1765391161220,
+      "cameraPos": {
+        "x": "172.00",
+        "y": "50.00",
+        "z": "-263.24"
+      },
+      "targetAngles": {
+        "Start": "176.79",
+        "Exit": "5.56"
+      }
+    },
+    {
+      "timestamp": 1765391161481,
+      "cameraPos": {
+        "x": "172.00",
+        "y": "50.00",
+        "z": "-263.24"
+      },
+      "targetAngles": {
+        "Start": "176.79",
+        "Exit": "5.56"
+      }
+    },
+    {
+      "timestamp": 1765391161739,
+      "cameraPos": {
+        "x": "172.00",
+        "y": "50.00",
+        "z": "-263.24"
+      },
+      "targetAngles": {
+        "Start": "176.79",
+        "Exit": "5.56"
+      }
+    },
+    {
+      "timestamp": 1765391161990,
+      "cameraPos": {
+        "x": "172.00",
+        "y": "50.00",
+        "z": "-263.24"
+      },
+      "targetAngles": {
+        "Start": "176.79",
+        "Exit": "5.56"
+      }
+    },
+    {
+      "timestamp": 1765391162244,
+      "cameraPos": {
+        "x": "172.00",
+        "y": "50.00",
+        "z": "-263.24"
+      },
+      "targetAngles": {
+        "Start": "176.79",
+        "Exit": "5.56"
+      }
+    },
+    {
+      "timestamp": 1765391162507,
+      "cameraPos": {
+        "x": "172.00",
+        "y": "50.00",
+        "z": "-263.24"
+      },
+      "targetAngles": {
+        "Start": "176.79",
+        "Exit": "5.56"
+      }
+    },
+    {
+      "timestamp": 1765391162758,
+      "cameraPos": {
+        "x": "172.00",
+        "y": "50.00",
+        "z": "-263.24"
+      },
+      "targetAngles": {
+        "Start": "176.79",
+        "Exit": "5.56"
+      }
+    },
+    {
+      "timestamp": 1765391163024,
+      "cameraPos": {
+        "x": "172.00",
+        "y": "50.00",
+        "z": "-263.24"
+      },
+      "targetAngles": {
+        "Start": "176.79",
+        "Exit": "5.56"
+      }
+    },
+    {
+      "timestamp": 1765391163278,
+      "cameraPos": {
+        "x": "172.00",
+        "y": "50.00",
+        "z": "-263.24"
+      },
+      "targetAngles": {
+        "Start": "176.79",
+        "Exit": "5.56"
+      }
+    },
+    {
+      "timestamp": 1765391163543,
+      "cameraPos": {
+        "x": "172.00",
+        "y": "50.00",
+        "z": "-263.24"
+      },
+      "targetAngles": {
+        "Start": "176.79",
+        "Exit": "5.56"
+      }
+    },
+    {
+      "timestamp": 1765391163794,
+      "cameraPos": {
+        "x": "172.00",
+        "y": "50.00",
+        "z": "-263.24"
+      },
+      "targetAngles": {
+        "Start": "176.79",
+        "Exit": "5.56"
+      }
+    },
+    {
+      "timestamp": 1765391164064,
+      "cameraPos": {
+        "x": "172.00",
+        "y": "50.00",
+        "z": "-263.24"
+      },
+      "targetAngles": {
+        "Start": "176.79",
+        "Exit": "5.56"
+      }
+    }
+  ],
+  "eyeTracking": [
+    {
+      "timestamp": 1765391126620,
+      "x": 500,
+      "y": 500
+    },
+    {
+      "timestamp": 1765391126651,
+      "x": 497,
+      "y": 497
+    },
+    {
+      "timestamp": 1765391126676,
+      "x": 488,
+      "y": 486
+    },
+    {
+      "timestamp": 1765391126702,
+      "x": 466,
+      "y": 459
+    },
+    {
+      "timestamp": 1765391126726,
+      "x": 427,
+      "y": 413
+    },
+    {
+      "timestamp": 1765391126751,
+      "x": 370,
+      "y": 346
+    },
+    {
+      "timestamp": 1765391126778,
+      "x": 301,
+      "y": 265
+    },
+    {
+      "timestamp": 1765391126810,
+      "x": 231,
+      "y": 182
+    },
+    {
+      "timestamp": 1765391126839,
+      "x": 166,
+      "y": 106
+    },
+    {
+      "timestamp": 1765391126869,
+      "x": 113,
+      "y": 43
+    },
+    {
+      "timestamp": 1765391126895,
+      "x": 73,
+      "y": -4
+    },
+    {
+      "timestamp": 1765391126926,
+      "x": 43,
+      "y": -39
+    },
+    {
+      "timestamp": 1765391126951,
+      "x": 23,
+      "y": -61
+    },
+    {
+      "timestamp": 1765391126976,
+      "x": 12,
+      "y": -74
+    },
+    {
+      "timestamp": 1765391127000,
+      "x": 7,
+      "y": -80
+    },
+    {
+      "timestamp": 1765391127030,
+      "x": 8,
+      "y": -81
+    },
+    {
+      "timestamp": 1765391127056,
+      "x": 12,
+      "y": -78
+    },
+    {
+      "timestamp": 1765391127084,
+      "x": 19,
+      "y": -71
+    },
+    {
+      "timestamp": 1765391127110,
+      "x": 23,
+      "y": -64
+    },
+    {
+      "timestamp": 1765391127143,
+      "x": 28,
+      "y": -55
+    },
+    {
+      "timestamp": 1765391127169,
+      "x": 60,
+      "y": -36
+    },
+    {
+      "timestamp": 1765391127202,
+      "x": 84,
+      "y": -22
+    },
+    {
+      "timestamp": 1765391127239,
+      "x": 139,
+      "y": 7
+    },
+    {
+      "timestamp": 1765391127269,
+      "x": 230,
+      "y": 54
+    },
+    {
+      "timestamp": 1765391127299,
+      "x": 326,
+      "y": 109
+    },
+    {
+      "timestamp": 1765391127331,
+      "x": 330,
+      "y": 116
+    },
+    {
+      "timestamp": 1765391127366,
+      "x": 457,
+      "y": 187
+    },
+    {
+      "timestamp": 1765391127407,
+      "x": 512,
+      "y": 219
+    },
+    {
+      "timestamp": 1765391127435,
+      "x": 537,
+      "y": 235
+    },
+    {
+      "timestamp": 1765391127469,
+      "x": 589,
+      "y": 264
+    },
+    {
+      "timestamp": 1765391127498,
+      "x": 603,
+      "y": 272
+    },
+    {
+      "timestamp": 1765391127527,
+      "x": 610,
+      "y": 277
+    },
+    {
+      "timestamp": 1765391127561,
+      "x": 632,
+      "y": 284
+    },
+    {
+      "timestamp": 1765391127586,
+      "x": 626,
+      "y": 276
+    },
+    {
+      "timestamp": 1765391127617,
+      "x": 688,
+      "y": 309
+    },
+    {
+      "timestamp": 1765391127642,
+      "x": 703,
+      "y": 314
+    },
+    {
+      "timestamp": 1765391127667,
+      "x": 633,
+      "y": 276
+    },
+    {
+      "timestamp": 1765391127694,
+      "x": 717,
+      "y": 314
+    },
+    {
+      "timestamp": 1765391127726,
+      "x": 726,
+      "y": 318
+    },
+    {
+      "timestamp": 1765391127752,
+      "x": 716,
+      "y": 312
+    },
+    {
+      "timestamp": 1765391127780,
+      "x": 676,
+      "y": 301
+    },
+    {
+      "timestamp": 1765391127809,
+      "x": 583,
+      "y": 256
+    },
+    {
+      "timestamp": 1765391127835,
+      "x": 571,
+      "y": 254
+    },
+    {
+      "timestamp": 1765391127867,
+      "x": 512,
+      "y": 225
+    },
+    {
+      "timestamp": 1765391127903,
+      "x": 505,
+      "y": 228
+    },
+    {
+      "timestamp": 1765391127934,
+      "x": 492,
+      "y": 221
+    },
+    {
+      "timestamp": 1765391127962,
+      "x": 504,
+      "y": 225
+    },
+    {
+      "timestamp": 1765391127987,
+      "x": 484,
+      "y": 220
+    },
+    {
+      "timestamp": 1765391128017,
+      "x": 493,
+      "y": 222
+    },
+    {
+      "timestamp": 1765391128044,
+      "x": 471,
+      "y": 210
+    },
+    {
+      "timestamp": 1765391128075,
+      "x": 440,
+      "y": 194
+    },
+    {
+      "timestamp": 1765391128101,
+      "x": 415,
+      "y": 179
+    },
+    {
+      "timestamp": 1765391128131,
+      "x": 404,
+      "y": 176
+    },
+    {
+      "timestamp": 1765391128160,
+      "x": 395,
+      "y": 172
+    },
+    {
+      "timestamp": 1765391128185,
+      "x": 379,
+      "y": 164
+    },
+    {
+      "timestamp": 1765391128212,
+      "x": 357,
+      "y": 155
+    },
+    {
+      "timestamp": 1765391128243,
+      "x": 392,
+      "y": 175
+    },
+    {
+      "timestamp": 1765391128272,
+      "x": 528,
+      "y": 250
+    },
+    {
+      "timestamp": 1765391128301,
+      "x": 674,
+      "y": 332
+    },
+    {
+      "timestamp": 1765391128328,
+      "x": 631,
+      "y": 312
+    },
+    {
+      "timestamp": 1765391128359,
+      "x": 606,
+      "y": 300
+    },
+    {
+      "timestamp": 1765391128397,
+      "x": 582,
+      "y": 290
+    },
+    {
+      "timestamp": 1765391128426,
+      "x": 528,
+      "y": 260
+    },
+    {
+      "timestamp": 1765391128452,
+      "x": 493,
+      "y": 241
+    },
+    {
+      "timestamp": 1765391128484,
+      "x": 484,
+      "y": 239
+    },
+    {
+      "timestamp": 1765391128511,
+      "x": 454,
+      "y": 224
+    },
+    {
+      "timestamp": 1765391128543,
+      "x": 425,
+      "y": 209
+    },
+    {
+      "timestamp": 1765391128576,
+      "x": 404,
+      "y": 197
+    },
+    {
+      "timestamp": 1765391128607,
+      "x": 425,
+      "y": 206
+    },
+    {
+      "timestamp": 1765391128643,
+      "x": 439,
+      "y": 218
+    },
+    {
+      "timestamp": 1765391128677,
+      "x": 459,
+      "y": 232
+    },
+    {
+      "timestamp": 1765391128710,
+      "x": 530,
+      "y": 272
+    },
+    {
+      "timestamp": 1765391128739,
+      "x": 577,
+      "y": 299
+    },
+    {
+      "timestamp": 1765391128767,
+      "x": 622,
+      "y": 325
+    },
+    {
+      "timestamp": 1765391128795,
+      "x": 659,
+      "y": 348
+    },
+    {
+      "timestamp": 1765391128826,
+      "x": 656,
+      "y": 349
+    },
+    {
+      "timestamp": 1765391128853,
+      "x": 641,
+      "y": 343
+    },
+    {
+      "timestamp": 1765391128885,
+      "x": 643,
+      "y": 346
+    },
+    {
+      "timestamp": 1765391128910,
+      "x": 620,
+      "y": 334
+    },
+    {
+      "timestamp": 1765391128936,
+      "x": 602,
+      "y": 325
+    },
+    {
+      "timestamp": 1765391128968,
+      "x": 586,
+      "y": 317
+    },
+    {
+      "timestamp": 1765391128998,
+      "x": 580,
+      "y": 314
+    },
+    {
+      "timestamp": 1765391129026,
+      "x": 582,
+      "y": 316
+    },
+    {
+      "timestamp": 1765391129060,
+      "x": 593,
+      "y": 322
+    },
+    {
+      "timestamp": 1765391129089,
+      "x": 591,
+      "y": 321
+    },
+    {
+      "timestamp": 1765391129118,
+      "x": 590,
+      "y": 320
+    },
+    {
+      "timestamp": 1765391129143,
+      "x": 569,
+      "y": 309
+    },
+    {
+      "timestamp": 1765391129170,
+      "x": 558,
+      "y": 302
+    },
+    {
+      "timestamp": 1765391129207,
+      "x": 549,
+      "y": 297
+    },
+    {
+      "timestamp": 1765391129247,
+      "x": 557,
+      "y": 301
+    },
+    {
+      "timestamp": 1765391129293,
+      "x": 534,
+      "y": 286
+    },
+    {
+      "timestamp": 1765391129317,
+      "x": 455,
+      "y": 237
+    },
+    {
+      "timestamp": 1765391129343,
+      "x": 428,
+      "y": 220
+    },
+    {
+      "timestamp": 1765391129369,
+      "x": 383,
+      "y": 191
+    },
+    {
+      "timestamp": 1765391129400,
+      "x": 369,
+      "y": 181
+    },
+    {
+      "timestamp": 1765391129426,
+      "x": 320,
+      "y": 151
+    },
+    {
+      "timestamp": 1765391129451,
+      "x": 303,
+      "y": 140
+    },
+    {
+      "timestamp": 1765391129475,
+      "x": 265,
+      "y": 118
+    },
+    {
+      "timestamp": 1765391129500,
+      "x": 241,
+      "y": 103
+    },
+    {
+      "timestamp": 1765391129525,
+      "x": 202,
+      "y": 80
+    },
+    {
+      "timestamp": 1765391129551,
+      "x": 214,
+      "y": 87
+    },
+    {
+      "timestamp": 1765391129576,
+      "x": 205,
+      "y": 82
+    },
+    {
+      "timestamp": 1765391129605,
+      "x": 228,
+      "y": 95
+    },
+    {
+      "timestamp": 1765391129634,
+      "x": 210,
+      "y": 85
+    },
+    {
+      "timestamp": 1765391129658,
+      "x": 166,
+      "y": 60
+    },
+    {
+      "timestamp": 1765391129684,
+      "x": 134,
+      "y": 41
+    },
+    {
+      "timestamp": 1765391129707,
+      "x": 107,
+      "y": 26
+    },
+    {
+      "timestamp": 1765391129728,
+      "x": 88,
+      "y": 15
+    },
+    {
+      "timestamp": 1765391129764,
+      "x": 75,
+      "y": 7
+    },
+    {
+      "timestamp": 1765391129792,
+      "x": 66,
+      "y": 2
+    },
+    {
+      "timestamp": 1765391129819,
+      "x": 60,
+      "y": -1
+    },
+    {
+      "timestamp": 1765391129852,
+      "x": 57,
+      "y": -3
+    },
+    {
+      "timestamp": 1765391129876,
+      "x": 56,
+      "y": -3
+    },
+    {
+      "timestamp": 1765391129901,
+      "x": 56,
+      "y": -3
+    },
+    {
+      "timestamp": 1765391129923,
+      "x": 59,
+      "y": -1
+    },
+    {
+      "timestamp": 1765391129949,
+      "x": 62,
+      "y": 1
+    },
+    {
+      "timestamp": 1765391129976,
+      "x": 66,
+      "y": 3
+    },
+    {
+      "timestamp": 1765391130000,
+      "x": 70,
+      "y": 5
+    },
+    {
+      "timestamp": 1765391130022,
+      "x": 74,
+      "y": 8
+    },
+    {
+      "timestamp": 1765391130048,
+      "x": 78,
+      "y": 10
+    },
+    {
+      "timestamp": 1765391130070,
+      "x": 81,
+      "y": 12
+    },
+    {
+      "timestamp": 1765391130097,
+      "x": 84,
+      "y": 14
+    },
+    {
+      "timestamp": 1765391130122,
+      "x": 86,
+      "y": 15
+    },
+    {
+      "timestamp": 1765391130145,
+      "x": 88,
+      "y": 16
+    },
+    {
+      "timestamp": 1765391130172,
+      "x": 89,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391130194,
+      "x": 90,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391130222,
+      "x": 90,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391130251,
+      "x": 92,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391130275,
+      "x": 92,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391130300,
+      "x": 93,
+      "y": 20
+    },
+    {
+      "timestamp": 1765391130325,
+      "x": 93,
+      "y": 20
+    },
+    {
+      "timestamp": 1765391130350,
+      "x": 93,
+      "y": 20
+    },
+    {
+      "timestamp": 1765391130375,
+      "x": 93,
+      "y": 20
+    },
+    {
+      "timestamp": 1765391130401,
+      "x": 92,
+      "y": 20
+    },
+    {
+      "timestamp": 1765391130424,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391130450,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391130475,
+      "x": 92,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391130500,
+      "x": 92,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391130524,
+      "x": 92,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391130550,
+      "x": 92,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391130575,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391130599,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391130626,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391130651,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391130674,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391130697,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391130726,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391130752,
+      "x": 89,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391130779,
+      "x": 89,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391130808,
+      "x": 89,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391130835,
+      "x": 89,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391130865,
+      "x": 89,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391130893,
+      "x": 89,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391130924,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391130957,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391130986,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391131019,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391131053,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391131086,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391131120,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391131165,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391131202,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391131237,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391131281,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391131311,
+      "x": 92,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391131341,
+      "x": 92,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391131369,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391131406,
+      "x": 88,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391131436,
+      "x": 86,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391131482,
+      "x": 85,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391131514,
+      "x": 84,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391131547,
+      "x": 84,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391131580,
+      "x": 83,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391131610,
+      "x": 83,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391131635,
+      "x": 83,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391131667,
+      "x": 84,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391131693,
+      "x": 84,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391131725,
+      "x": 85,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391131750,
+      "x": 85,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391131776,
+      "x": 85,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391131801,
+      "x": 86,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391131833,
+      "x": 87,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391131861,
+      "x": 87,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391131891,
+      "x": 87,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391131918,
+      "x": 87,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391131943,
+      "x": 87,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391131976,
+      "x": 87,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391132002,
+      "x": 88,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391132035,
+      "x": 88,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391132068,
+      "x": 88,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391132092,
+      "x": 89,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391132117,
+      "x": 88,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391132143,
+      "x": 89,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391132169,
+      "x": 89,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391132192,
+      "x": 89,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391132213,
+      "x": 89,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391132243,
+      "x": 89,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391132267,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391132293,
+      "x": 89,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391132318,
+      "x": 89,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391132342,
+      "x": 89,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391132367,
+      "x": 88,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391132400,
+      "x": 87,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391132424,
+      "x": 87,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391132452,
+      "x": 86,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391132484,
+      "x": 86,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391132510,
+      "x": 86,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391132544,
+      "x": 85,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391132577,
+      "x": 86,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391132608,
+      "x": 87,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391132636,
+      "x": 89,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391132669,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391132701,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391132736,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391132769,
+      "x": 92,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391132805,
+      "x": 93,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391132835,
+      "x": 94,
+      "y": 20
+    },
+    {
+      "timestamp": 1765391132873,
+      "x": 96,
+      "y": 20
+    },
+    {
+      "timestamp": 1765391132912,
+      "x": 97,
+      "y": 20
+    },
+    {
+      "timestamp": 1765391132951,
+      "x": 97,
+      "y": 20
+    },
+    {
+      "timestamp": 1765391132980,
+      "x": 97,
+      "y": 20
+    },
+    {
+      "timestamp": 1765391133012,
+      "x": 97,
+      "y": 20
+    },
+    {
+      "timestamp": 1765391133050,
+      "x": 98,
+      "y": 21
+    },
+    {
+      "timestamp": 1765391133098,
+      "x": 97,
+      "y": 20
+    },
+    {
+      "timestamp": 1765391133128,
+      "x": 96,
+      "y": 20
+    },
+    {
+      "timestamp": 1765391133163,
+      "x": 95,
+      "y": 20
+    },
+    {
+      "timestamp": 1765391133199,
+      "x": 94,
+      "y": 20
+    },
+    {
+      "timestamp": 1765391133235,
+      "x": 93,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391133272,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391133309,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391133344,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391133380,
+      "x": 89,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391133412,
+      "x": 89,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391133447,
+      "x": 89,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391133485,
+      "x": 89,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391133526,
+      "x": 89,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391133562,
+      "x": 89,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391133602,
+      "x": 89,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391133636,
+      "x": 89,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391133685,
+      "x": 89,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391133719,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391133760,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391133797,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391133827,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391133861,
+      "x": 89,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391133897,
+      "x": 88,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391133942,
+      "x": 87,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391133969,
+      "x": 86,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391134006,
+      "x": 86,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391134038,
+      "x": 85,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391134070,
+      "x": 84,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391134109,
+      "x": 83,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391134148,
+      "x": 84,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391134194,
+      "x": 83,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391134230,
+      "x": 82,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391134264,
+      "x": 81,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391134298,
+      "x": 79,
+      "y": 16
+    },
+    {
+      "timestamp": 1765391134340,
+      "x": 77,
+      "y": 16
+    },
+    {
+      "timestamp": 1765391134372,
+      "x": 76,
+      "y": 15
+    },
+    {
+      "timestamp": 1765391134404,
+      "x": 74,
+      "y": 15
+    },
+    {
+      "timestamp": 1765391134443,
+      "x": 74,
+      "y": 15
+    },
+    {
+      "timestamp": 1765391134485,
+      "x": 73,
+      "y": 15
+    },
+    {
+      "timestamp": 1765391134526,
+      "x": 73,
+      "y": 15
+    },
+    {
+      "timestamp": 1765391134565,
+      "x": 73,
+      "y": 15
+    },
+    {
+      "timestamp": 1765391134594,
+      "x": 76,
+      "y": 16
+    },
+    {
+      "timestamp": 1765391134634,
+      "x": 79,
+      "y": 16
+    },
+    {
+      "timestamp": 1765391134686,
+      "x": 82,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391134730,
+      "x": 84,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391134771,
+      "x": 85,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391134801,
+      "x": 87,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391134827,
+      "x": 88,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391134869,
+      "x": 89,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391134904,
+      "x": 89,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391134937,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391134972,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391135016,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391135047,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391135080,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391135119,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391135161,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391135198,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391135246,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391135277,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391135312,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391135345,
+      "x": 92,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391135378,
+      "x": 92,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391135418,
+      "x": 92,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391135460,
+      "x": 92,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391135504,
+      "x": 92,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391135538,
+      "x": 92,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391135570,
+      "x": 92,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391135603,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391135656,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391135689,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391135720,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391135752,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391135794,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391135830,
+      "x": 90,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391135862,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391135891,
+      "x": 87,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391135918,
+      "x": 85,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391135953,
+      "x": 83,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391135988,
+      "x": 82,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391136018,
+      "x": 83,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391136053,
+      "x": 84,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391136095,
+      "x": 86,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391136127,
+      "x": 87,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391136167,
+      "x": 88,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391136205,
+      "x": 88,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391136242,
+      "x": 89,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391136281,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391136310,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391136344,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391136378,
+      "x": 92,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391136413,
+      "x": 92,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391136445,
+      "x": 92,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391136473,
+      "x": 92,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391136501,
+      "x": 92,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391136531,
+      "x": 93,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391136569,
+      "x": 93,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391136603,
+      "x": 93,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391136638,
+      "x": 93,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391136668,
+      "x": 94,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391136705,
+      "x": 93,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391136736,
+      "x": 92,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391136785,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391136823,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391136862,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391136895,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391136929,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391136962,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391136997,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391137034,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391137072,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391137105,
+      "x": 92,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391137138,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391137172,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391137209,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391137246,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391137280,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391137312,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391137347,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391137378,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391137412,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391137448,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391137478,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391137518,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391137563,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391137597,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391137637,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391137671,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391137705,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391137738,
+      "x": 92,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391137788,
+      "x": 92,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391137827,
+      "x": 92,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391137863,
+      "x": 92,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391137902,
+      "x": 92,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391137943,
+      "x": 92,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391137986,
+      "x": 92,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391138021,
+      "x": 93,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391138053,
+      "x": 93,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391138091,
+      "x": 93,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391138134,
+      "x": 93,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391138177,
+      "x": 92,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391138218,
+      "x": 92,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391138259,
+      "x": 92,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391138301,
+      "x": 92,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391138346,
+      "x": 92,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391138380,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391138413,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391138446,
+      "x": 92,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391138478,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391138512,
+      "x": 92,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391138553,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391138605,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391138638,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391138669,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391138704,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391138739,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391138771,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391138805,
+      "x": 92,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391138856,
+      "x": 92,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391138913,
+      "x": 92,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391138945,
+      "x": 92,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391138995,
+      "x": 92,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391139027,
+      "x": 92,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391139071,
+      "x": 92,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391139103,
+      "x": 92,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391139147,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391139187,
+      "x": 92,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391139239,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391139275,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391139313,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391139344,
+      "x": 89,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391139387,
+      "x": 89,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391139421,
+      "x": 89,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391139455,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391139487,
+      "x": 89,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391139521,
+      "x": 89,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391139562,
+      "x": 88,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391139601,
+      "x": 89,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391139633,
+      "x": 88,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391139660,
+      "x": 89,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391139692,
+      "x": 88,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391139724,
+      "x": 89,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391139746,
+      "x": 88,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391139775,
+      "x": 89,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391139804,
+      "x": 89,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391139833,
+      "x": 89,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391139859,
+      "x": 89,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391139888,
+      "x": 88,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391139917,
+      "x": 85,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391139941,
+      "x": 83,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391139966,
+      "x": 81,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391139992,
+      "x": 80,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391140016,
+      "x": 80,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391140034,
+      "x": 80,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391140059,
+      "x": 82,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391140088,
+      "x": 82,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391140117,
+      "x": 84,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391140144,
+      "x": 85,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391140171,
+      "x": 86,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391140199,
+      "x": 87,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391140225,
+      "x": 88,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391140251,
+      "x": 88,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391140275,
+      "x": 89,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391140305,
+      "x": 165,
+      "y": 64
+    },
+    {
+      "timestamp": 1765391140333,
+      "x": 218,
+      "y": 97
+    },
+    {
+      "timestamp": 1765391140355,
+      "x": 237,
+      "y": 108
+    },
+    {
+      "timestamp": 1765391140383,
+      "x": 264,
+      "y": 125
+    },
+    {
+      "timestamp": 1765391140406,
+      "x": 267,
+      "y": 126
+    },
+    {
+      "timestamp": 1765391140430,
+      "x": 280,
+      "y": 134
+    },
+    {
+      "timestamp": 1765391140457,
+      "x": 273,
+      "y": 130
+    },
+    {
+      "timestamp": 1765391140479,
+      "x": 269,
+      "y": 127
+    },
+    {
+      "timestamp": 1765391140505,
+      "x": 258,
+      "y": 121
+    },
+    {
+      "timestamp": 1765391140532,
+      "x": 289,
+      "y": 140
+    },
+    {
+      "timestamp": 1765391140558,
+      "x": 314,
+      "y": 156
+    },
+    {
+      "timestamp": 1765391140581,
+      "x": 349,
+      "y": 178
+    },
+    {
+      "timestamp": 1765391140605,
+      "x": 376,
+      "y": 196
+    },
+    {
+      "timestamp": 1765391140633,
+      "x": 394,
+      "y": 208
+    },
+    {
+      "timestamp": 1765391140658,
+      "x": 412,
+      "y": 220
+    },
+    {
+      "timestamp": 1765391140683,
+      "x": 423,
+      "y": 228
+    },
+    {
+      "timestamp": 1765391140708,
+      "x": 415,
+      "y": 222
+    },
+    {
+      "timestamp": 1765391140733,
+      "x": 400,
+      "y": 213
+    },
+    {
+      "timestamp": 1765391140764,
+      "x": 375,
+      "y": 197
+    },
+    {
+      "timestamp": 1765391140799,
+      "x": 343,
+      "y": 177
+    },
+    {
+      "timestamp": 1765391140825,
+      "x": 304,
+      "y": 152
+    },
+    {
+      "timestamp": 1765391140855,
+      "x": 285,
+      "y": 140
+    },
+    {
+      "timestamp": 1765391140884,
+      "x": 264,
+      "y": 127
+    },
+    {
+      "timestamp": 1765391140917,
+      "x": 242,
+      "y": 112
+    },
+    {
+      "timestamp": 1765391140951,
+      "x": 223,
+      "y": 101
+    },
+    {
+      "timestamp": 1765391140984,
+      "x": 210,
+      "y": 93
+    },
+    {
+      "timestamp": 1765391141017,
+      "x": 202,
+      "y": 87
+    },
+    {
+      "timestamp": 1765391141051,
+      "x": 189,
+      "y": 79
+    },
+    {
+      "timestamp": 1765391141081,
+      "x": 236,
+      "y": 108
+    },
+    {
+      "timestamp": 1765391141109,
+      "x": 297,
+      "y": 145
+    },
+    {
+      "timestamp": 1765391141139,
+      "x": 339,
+      "y": 171
+    },
+    {
+      "timestamp": 1765391141167,
+      "x": 350,
+      "y": 177
+    },
+    {
+      "timestamp": 1765391141200,
+      "x": 387,
+      "y": 199
+    },
+    {
+      "timestamp": 1765391141224,
+      "x": 421,
+      "y": 220
+    },
+    {
+      "timestamp": 1765391141251,
+      "x": 435,
+      "y": 229
+    },
+    {
+      "timestamp": 1765391141284,
+      "x": 435,
+      "y": 228
+    },
+    {
+      "timestamp": 1765391141320,
+      "x": 435,
+      "y": 228
+    },
+    {
+      "timestamp": 1765391141354,
+      "x": 420,
+      "y": 219
+    },
+    {
+      "timestamp": 1765391141384,
+      "x": 375,
+      "y": 192
+    },
+    {
+      "timestamp": 1765391141416,
+      "x": 328,
+      "y": 162
+    },
+    {
+      "timestamp": 1765391141451,
+      "x": 305,
+      "y": 148
+    },
+    {
+      "timestamp": 1765391141479,
+      "x": 269,
+      "y": 127
+    },
+    {
+      "timestamp": 1765391141509,
+      "x": 303,
+      "y": 148
+    },
+    {
+      "timestamp": 1765391141541,
+      "x": 323,
+      "y": 161
+    },
+    {
+      "timestamp": 1765391141574,
+      "x": 338,
+      "y": 170
+    },
+    {
+      "timestamp": 1765391141602,
+      "x": 383,
+      "y": 198
+    },
+    {
+      "timestamp": 1765391141633,
+      "x": 370,
+      "y": 191
+    },
+    {
+      "timestamp": 1765391141656,
+      "x": 395,
+      "y": 206
+    },
+    {
+      "timestamp": 1765391141684,
+      "x": 417,
+      "y": 220
+    },
+    {
+      "timestamp": 1765391141713,
+      "x": 437,
+      "y": 232
+    },
+    {
+      "timestamp": 1765391141743,
+      "x": 461,
+      "y": 247
+    },
+    {
+      "timestamp": 1765391141776,
+      "x": 469,
+      "y": 252
+    },
+    {
+      "timestamp": 1765391141810,
+      "x": 467,
+      "y": 251
+    },
+    {
+      "timestamp": 1765391141846,
+      "x": 480,
+      "y": 260
+    },
+    {
+      "timestamp": 1765391141884,
+      "x": 485,
+      "y": 265
+    },
+    {
+      "timestamp": 1765391141921,
+      "x": 499,
+      "y": 276
+    },
+    {
+      "timestamp": 1765391141957,
+      "x": 483,
+      "y": 269
+    },
+    {
+      "timestamp": 1765391141984,
+      "x": 523,
+      "y": 296
+    },
+    {
+      "timestamp": 1765391142021,
+      "x": 545,
+      "y": 311
+    },
+    {
+      "timestamp": 1765391142054,
+      "x": 557,
+      "y": 321
+    },
+    {
+      "timestamp": 1765391142088,
+      "x": 550,
+      "y": 318
+    },
+    {
+      "timestamp": 1765391142118,
+      "x": 532,
+      "y": 307
+    },
+    {
+      "timestamp": 1765391142160,
+      "x": 509,
+      "y": 292
+    },
+    {
+      "timestamp": 1765391142205,
+      "x": 505,
+      "y": 289
+    },
+    {
+      "timestamp": 1765391142240,
+      "x": 548,
+      "y": 320
+    },
+    {
+      "timestamp": 1765391142279,
+      "x": 579,
+      "y": 342
+    },
+    {
+      "timestamp": 1765391142309,
+      "x": 580,
+      "y": 341
+    },
+    {
+      "timestamp": 1765391142352,
+      "x": 579,
+      "y": 340
+    },
+    {
+      "timestamp": 1765391142388,
+      "x": 587,
+      "y": 345
+    },
+    {
+      "timestamp": 1765391142429,
+      "x": 579,
+      "y": 340
+    },
+    {
+      "timestamp": 1765391142463,
+      "x": 577,
+      "y": 338
+    },
+    {
+      "timestamp": 1765391142502,
+      "x": 569,
+      "y": 333
+    },
+    {
+      "timestamp": 1765391142537,
+      "x": 565,
+      "y": 330
+    },
+    {
+      "timestamp": 1765391142576,
+      "x": 549,
+      "y": 319
+    },
+    {
+      "timestamp": 1765391142612,
+      "x": 542,
+      "y": 314
+    },
+    {
+      "timestamp": 1765391142648,
+      "x": 537,
+      "y": 309
+    },
+    {
+      "timestamp": 1765391142687,
+      "x": 532,
+      "y": 306
+    },
+    {
+      "timestamp": 1765391142724,
+      "x": 534,
+      "y": 307
+    },
+    {
+      "timestamp": 1765391142759,
+      "x": 521,
+      "y": 300
+    },
+    {
+      "timestamp": 1765391142795,
+      "x": 537,
+      "y": 310
+    },
+    {
+      "timestamp": 1765391142826,
+      "x": 543,
+      "y": 314
+    },
+    {
+      "timestamp": 1765391142862,
+      "x": 559,
+      "y": 324
+    },
+    {
+      "timestamp": 1765391142893,
+      "x": 562,
+      "y": 326
+    },
+    {
+      "timestamp": 1765391142922,
+      "x": 561,
+      "y": 326
+    },
+    {
+      "timestamp": 1765391142950,
+      "x": 551,
+      "y": 319
+    },
+    {
+      "timestamp": 1765391142983,
+      "x": 553,
+      "y": 321
+    },
+    {
+      "timestamp": 1765391143008,
+      "x": 537,
+      "y": 310
+    },
+    {
+      "timestamp": 1765391143033,
+      "x": 524,
+      "y": 302
+    },
+    {
+      "timestamp": 1765391143065,
+      "x": 521,
+      "y": 299
+    },
+    {
+      "timestamp": 1765391143091,
+      "x": 510,
+      "y": 292
+    },
+    {
+      "timestamp": 1765391143118,
+      "x": 510,
+      "y": 291
+    },
+    {
+      "timestamp": 1765391143149,
+      "x": 507,
+      "y": 289
+    },
+    {
+      "timestamp": 1765391143174,
+      "x": 498,
+      "y": 283
+    },
+    {
+      "timestamp": 1765391143199,
+      "x": 490,
+      "y": 278
+    },
+    {
+      "timestamp": 1765391143224,
+      "x": 481,
+      "y": 272
+    },
+    {
+      "timestamp": 1765391143249,
+      "x": 488,
+      "y": 277
+    },
+    {
+      "timestamp": 1765391143272,
+      "x": 489,
+      "y": 278
+    },
+    {
+      "timestamp": 1765391143299,
+      "x": 503,
+      "y": 287
+    },
+    {
+      "timestamp": 1765391143325,
+      "x": 519,
+      "y": 297
+    },
+    {
+      "timestamp": 1765391143353,
+      "x": 519,
+      "y": 297
+    },
+    {
+      "timestamp": 1765391143383,
+      "x": 517,
+      "y": 296
+    },
+    {
+      "timestamp": 1765391143408,
+      "x": 516,
+      "y": 296
+    },
+    {
+      "timestamp": 1765391143433,
+      "x": 515,
+      "y": 295
+    },
+    {
+      "timestamp": 1765391143458,
+      "x": 500,
+      "y": 285
+    },
+    {
+      "timestamp": 1765391143482,
+      "x": 472,
+      "y": 266
+    },
+    {
+      "timestamp": 1765391143508,
+      "x": 447,
+      "y": 250
+    },
+    {
+      "timestamp": 1765391143529,
+      "x": 422,
+      "y": 233
+    },
+    {
+      "timestamp": 1765391143556,
+      "x": 396,
+      "y": 217
+    },
+    {
+      "timestamp": 1765391143583,
+      "x": 376,
+      "y": 204
+    },
+    {
+      "timestamp": 1765391143608,
+      "x": 357,
+      "y": 191
+    },
+    {
+      "timestamp": 1765391143633,
+      "x": 350,
+      "y": 187
+    },
+    {
+      "timestamp": 1765391143664,
+      "x": 273,
+      "y": 136
+    },
+    {
+      "timestamp": 1765391143691,
+      "x": 209,
+      "y": 94
+    },
+    {
+      "timestamp": 1765391143716,
+      "x": 156,
+      "y": 60
+    },
+    {
+      "timestamp": 1765391143741,
+      "x": 115,
+      "y": 34
+    },
+    {
+      "timestamp": 1765391143767,
+      "x": 84,
+      "y": 14
+    },
+    {
+      "timestamp": 1765391143799,
+      "x": 61,
+      "y": -1
+    },
+    {
+      "timestamp": 1765391143826,
+      "x": 45,
+      "y": -11
+    },
+    {
+      "timestamp": 1765391143857,
+      "x": 35,
+      "y": -18
+    },
+    {
+      "timestamp": 1765391143883,
+      "x": 30,
+      "y": -21
+    },
+    {
+      "timestamp": 1765391143915,
+      "x": 29,
+      "y": -22
+    },
+    {
+      "timestamp": 1765391143942,
+      "x": 30,
+      "y": -21
+    },
+    {
+      "timestamp": 1765391143966,
+      "x": 34,
+      "y": -18
+    },
+    {
+      "timestamp": 1765391143992,
+      "x": 39,
+      "y": -15
+    },
+    {
+      "timestamp": 1765391144026,
+      "x": 45,
+      "y": -11
+    },
+    {
+      "timestamp": 1765391144059,
+      "x": 52,
+      "y": -7
+    },
+    {
+      "timestamp": 1765391144091,
+      "x": 58,
+      "y": -3
+    },
+    {
+      "timestamp": 1765391144125,
+      "x": 64,
+      "y": 0
+    },
+    {
+      "timestamp": 1765391144155,
+      "x": 70,
+      "y": 4
+    },
+    {
+      "timestamp": 1765391144184,
+      "x": 76,
+      "y": 8
+    },
+    {
+      "timestamp": 1765391144219,
+      "x": 80,
+      "y": 11
+    },
+    {
+      "timestamp": 1765391144254,
+      "x": 84,
+      "y": 13
+    },
+    {
+      "timestamp": 1765391144281,
+      "x": 88,
+      "y": 15
+    },
+    {
+      "timestamp": 1765391144309,
+      "x": 90,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391144342,
+      "x": 91,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391144376,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391144408,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391144442,
+      "x": 90,
+      "y": 20
+    },
+    {
+      "timestamp": 1765391144470,
+      "x": 90,
+      "y": 20
+    },
+    {
+      "timestamp": 1765391144500,
+      "x": 90,
+      "y": 20
+    },
+    {
+      "timestamp": 1765391144531,
+      "x": 89,
+      "y": 20
+    },
+    {
+      "timestamp": 1765391144557,
+      "x": 90,
+      "y": 20
+    },
+    {
+      "timestamp": 1765391144590,
+      "x": 89,
+      "y": 20
+    },
+    {
+      "timestamp": 1765391144618,
+      "x": 89,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391144647,
+      "x": 89,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391144675,
+      "x": 89,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391144708,
+      "x": 89,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391144738,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391144766,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391144799,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391144825,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391144859,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391144888,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391144917,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391144947,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391144975,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391145007,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391145034,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391145067,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391145100,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391145134,
+      "x": 92,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391145167,
+      "x": 92,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391145199,
+      "x": 92,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391145234,
+      "x": 92,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391145270,
+      "x": 93,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391145301,
+      "x": 93,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391145333,
+      "x": 93,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391145367,
+      "x": 93,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391145406,
+      "x": 94,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391145434,
+      "x": 94,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391145468,
+      "x": 95,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391145501,
+      "x": 95,
+      "y": 20
+    },
+    {
+      "timestamp": 1765391145534,
+      "x": 94,
+      "y": 20
+    },
+    {
+      "timestamp": 1765391145567,
+      "x": 94,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391145601,
+      "x": 94,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391145634,
+      "x": 95,
+      "y": 20
+    },
+    {
+      "timestamp": 1765391145667,
+      "x": 95,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391145701,
+      "x": 95,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391145734,
+      "x": 94,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391145767,
+      "x": 94,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391145800,
+      "x": 94,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391145834,
+      "x": 94,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391145868,
+      "x": 94,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391145904,
+      "x": 94,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391145932,
+      "x": 93,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391145968,
+      "x": 93,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391145998,
+      "x": 93,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391146028,
+      "x": 93,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391146060,
+      "x": 92,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391146099,
+      "x": 92,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391146133,
+      "x": 92,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391146167,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391146201,
+      "x": 92,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391146234,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391146266,
+      "x": 201,
+      "y": 90
+    },
+    {
+      "timestamp": 1765391146297,
+      "x": 304,
+      "y": 158
+    },
+    {
+      "timestamp": 1765391146332,
+      "x": 380,
+      "y": 208
+    },
+    {
+      "timestamp": 1765391146359,
+      "x": 445,
+      "y": 251
+    },
+    {
+      "timestamp": 1765391146390,
+      "x": 491,
+      "y": 281
+    },
+    {
+      "timestamp": 1765391146417,
+      "x": 524,
+      "y": 303
+    },
+    {
+      "timestamp": 1765391146450,
+      "x": 554,
+      "y": 322
+    },
+    {
+      "timestamp": 1765391146483,
+      "x": 570,
+      "y": 333
+    },
+    {
+      "timestamp": 1765391146517,
+      "x": 564,
+      "y": 328
+    },
+    {
+      "timestamp": 1765391146550,
+      "x": 536,
+      "y": 309
+    },
+    {
+      "timestamp": 1765391146585,
+      "x": 514,
+      "y": 294
+    },
+    {
+      "timestamp": 1765391146621,
+      "x": 493,
+      "y": 280
+    },
+    {
+      "timestamp": 1765391146651,
+      "x": 474,
+      "y": 268
+    },
+    {
+      "timestamp": 1765391146685,
+      "x": 457,
+      "y": 256
+    },
+    {
+      "timestamp": 1765391146717,
+      "x": 443,
+      "y": 247
+    },
+    {
+      "timestamp": 1765391146754,
+      "x": 430,
+      "y": 238
+    },
+    {
+      "timestamp": 1765391146792,
+      "x": 420,
+      "y": 231
+    },
+    {
+      "timestamp": 1765391146824,
+      "x": 412,
+      "y": 226
+    },
+    {
+      "timestamp": 1765391146859,
+      "x": 410,
+      "y": 225
+    },
+    {
+      "timestamp": 1765391146891,
+      "x": 434,
+      "y": 241
+    },
+    {
+      "timestamp": 1765391146921,
+      "x": 424,
+      "y": 235
+    },
+    {
+      "timestamp": 1765391146948,
+      "x": 411,
+      "y": 228
+    },
+    {
+      "timestamp": 1765391146974,
+      "x": 411,
+      "y": 228
+    },
+    {
+      "timestamp": 1765391147009,
+      "x": 425,
+      "y": 238
+    },
+    {
+      "timestamp": 1765391147042,
+      "x": 448,
+      "y": 253
+    },
+    {
+      "timestamp": 1765391147071,
+      "x": 464,
+      "y": 263
+    },
+    {
+      "timestamp": 1765391147098,
+      "x": 488,
+      "y": 279
+    },
+    {
+      "timestamp": 1765391147125,
+      "x": 504,
+      "y": 290
+    },
+    {
+      "timestamp": 1765391147155,
+      "x": 519,
+      "y": 299
+    },
+    {
+      "timestamp": 1765391147183,
+      "x": 536,
+      "y": 311
+    },
+    {
+      "timestamp": 1765391147211,
+      "x": 543,
+      "y": 315
+    },
+    {
+      "timestamp": 1765391147245,
+      "x": 555,
+      "y": 323
+    },
+    {
+      "timestamp": 1765391147275,
+      "x": 568,
+      "y": 331
+    },
+    {
+      "timestamp": 1765391147309,
+      "x": 572,
+      "y": 335
+    },
+    {
+      "timestamp": 1765391147330,
+      "x": 453,
+      "y": 257
+    },
+    {
+      "timestamp": 1765391147358,
+      "x": 351,
+      "y": 190
+    },
+    {
+      "timestamp": 1765391147391,
+      "x": 266,
+      "y": 134
+    },
+    {
+      "timestamp": 1765391147429,
+      "x": 195,
+      "y": 88
+    },
+    {
+      "timestamp": 1765391147458,
+      "x": 139,
+      "y": 52
+    },
+    {
+      "timestamp": 1765391147492,
+      "x": 96,
+      "y": 23
+    },
+    {
+      "timestamp": 1765391147525,
+      "x": 64,
+      "y": 2
+    },
+    {
+      "timestamp": 1765391147560,
+      "x": 41,
+      "y": -13
+    },
+    {
+      "timestamp": 1765391147595,
+      "x": 26,
+      "y": -23
+    },
+    {
+      "timestamp": 1765391147635,
+      "x": 17,
+      "y": -28
+    },
+    {
+      "timestamp": 1765391147669,
+      "x": 14,
+      "y": -30
+    },
+    {
+      "timestamp": 1765391147700,
+      "x": 14,
+      "y": -30
+    },
+    {
+      "timestamp": 1765391147733,
+      "x": 18,
+      "y": -28
+    },
+    {
+      "timestamp": 1765391147771,
+      "x": 23,
+      "y": -24
+    },
+    {
+      "timestamp": 1765391147800,
+      "x": 30,
+      "y": -20
+    },
+    {
+      "timestamp": 1765391147831,
+      "x": 37,
+      "y": -15
+    },
+    {
+      "timestamp": 1765391147867,
+      "x": 45,
+      "y": -11
+    },
+    {
+      "timestamp": 1765391147889,
+      "x": 52,
+      "y": -6
+    },
+    {
+      "timestamp": 1765391147914,
+      "x": 59,
+      "y": -1
+    },
+    {
+      "timestamp": 1765391147938,
+      "x": 65,
+      "y": 3
+    },
+    {
+      "timestamp": 1765391147965,
+      "x": 71,
+      "y": 6
+    },
+    {
+      "timestamp": 1765391147989,
+      "x": 76,
+      "y": 10
+    },
+    {
+      "timestamp": 1765391148015,
+      "x": 81,
+      "y": 12
+    },
+    {
+      "timestamp": 1765391148044,
+      "x": 84,
+      "y": 15
+    },
+    {
+      "timestamp": 1765391148073,
+      "x": 87,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391148098,
+      "x": 90,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391148124,
+      "x": 92,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391148149,
+      "x": 93,
+      "y": 20
+    },
+    {
+      "timestamp": 1765391148174,
+      "x": 94,
+      "y": 21
+    },
+    {
+      "timestamp": 1765391148199,
+      "x": 95,
+      "y": 21
+    },
+    {
+      "timestamp": 1765391148230,
+      "x": 95,
+      "y": 21
+    },
+    {
+      "timestamp": 1765391148257,
+      "x": 95,
+      "y": 21
+    },
+    {
+      "timestamp": 1765391148280,
+      "x": 95,
+      "y": 21
+    },
+    {
+      "timestamp": 1765391148307,
+      "x": 94,
+      "y": 21
+    },
+    {
+      "timestamp": 1765391148333,
+      "x": 94,
+      "y": 21
+    },
+    {
+      "timestamp": 1765391148363,
+      "x": 93,
+      "y": 20
+    },
+    {
+      "timestamp": 1765391148389,
+      "x": 94,
+      "y": 20
+    },
+    {
+      "timestamp": 1765391148417,
+      "x": 94,
+      "y": 20
+    },
+    {
+      "timestamp": 1765391148446,
+      "x": 94,
+      "y": 20
+    },
+    {
+      "timestamp": 1765391148475,
+      "x": 95,
+      "y": 20
+    },
+    {
+      "timestamp": 1765391148507,
+      "x": 95,
+      "y": 20
+    },
+    {
+      "timestamp": 1765391148534,
+      "x": 95,
+      "y": 20
+    },
+    {
+      "timestamp": 1765391148565,
+      "x": 95,
+      "y": 20
+    },
+    {
+      "timestamp": 1765391148592,
+      "x": 95,
+      "y": 20
+    },
+    {
+      "timestamp": 1765391148625,
+      "x": 94,
+      "y": 20
+    },
+    {
+      "timestamp": 1765391148657,
+      "x": 94,
+      "y": 20
+    },
+    {
+      "timestamp": 1765391148681,
+      "x": 93,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391148720,
+      "x": 92,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391148753,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391148784,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391148820,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391148861,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391148893,
+      "x": 89,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391148928,
+      "x": 88,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391148963,
+      "x": 88,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391148992,
+      "x": 87,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391149014,
+      "x": 87,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391149044,
+      "x": 87,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391149073,
+      "x": 87,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391149099,
+      "x": 86,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391149124,
+      "x": 85,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391149156,
+      "x": 86,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391149182,
+      "x": 85,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391149207,
+      "x": 85,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391149233,
+      "x": 85,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391149265,
+      "x": 85,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391149290,
+      "x": 84,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391149316,
+      "x": 86,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391149341,
+      "x": 86,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391149367,
+      "x": 87,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391149396,
+      "x": 87,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391149425,
+      "x": 88,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391149456,
+      "x": 88,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391149480,
+      "x": 89,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391149507,
+      "x": 89,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391149531,
+      "x": 89,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391149557,
+      "x": 88,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391149583,
+      "x": 89,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391149607,
+      "x": 89,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391149640,
+      "x": 89,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391149665,
+      "x": 89,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391149688,
+      "x": 89,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391149715,
+      "x": 89,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391149754,
+      "x": 89,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391149814,
+      "x": 89,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391149841,
+      "x": 89,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391149871,
+      "x": 90,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391149900,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391149931,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391149955,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391149981,
+      "x": 89,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391150007,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391150032,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391150063,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391150090,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391150115,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391150140,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391150164,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391150188,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391150215,
+      "x": 90,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391150240,
+      "x": 89,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391150271,
+      "x": 90,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391150294,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391150323,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391150349,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391150378,
+      "x": 89,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391150407,
+      "x": 88,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391150438,
+      "x": 88,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391150461,
+      "x": 88,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391150490,
+      "x": 88,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391150515,
+      "x": 88,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391150540,
+      "x": 88,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391150569,
+      "x": 89,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391150598,
+      "x": 89,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391150631,
+      "x": 89,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391150657,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391150682,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391150706,
+      "x": 89,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391150728,
+      "x": 87,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391150757,
+      "x": 84,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391150781,
+      "x": 82,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391150805,
+      "x": 81,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391150832,
+      "x": 80,
+      "y": 16
+    },
+    {
+      "timestamp": 1765391150859,
+      "x": 80,
+      "y": 16
+    },
+    {
+      "timestamp": 1765391150890,
+      "x": 80,
+      "y": 16
+    },
+    {
+      "timestamp": 1765391150919,
+      "x": 80,
+      "y": 16
+    },
+    {
+      "timestamp": 1765391150948,
+      "x": 81,
+      "y": 16
+    },
+    {
+      "timestamp": 1765391150973,
+      "x": 82,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391150998,
+      "x": 82,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391151024,
+      "x": 83,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391151045,
+      "x": 84,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391151073,
+      "x": 85,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391151094,
+      "x": 86,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391151120,
+      "x": 87,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391151142,
+      "x": 86,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391151170,
+      "x": 86,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391151197,
+      "x": 86,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391151223,
+      "x": 86,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391151248,
+      "x": 86,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391151273,
+      "x": 86,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391151298,
+      "x": 86,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391151321,
+      "x": 86,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391151348,
+      "x": 87,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391151373,
+      "x": 87,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391151398,
+      "x": 87,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391151422,
+      "x": 87,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391151448,
+      "x": 87,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391151473,
+      "x": 87,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391151496,
+      "x": 87,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391151522,
+      "x": 87,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391151548,
+      "x": 86,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391151573,
+      "x": 86,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391151598,
+      "x": 86,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391151622,
+      "x": 86,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391151648,
+      "x": 86,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391151672,
+      "x": 86,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391151696,
+      "x": 86,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391151723,
+      "x": 85,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391151748,
+      "x": 85,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391151772,
+      "x": 85,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391151798,
+      "x": 85,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391151831,
+      "x": 85,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391151858,
+      "x": 85,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391151890,
+      "x": 84,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391151923,
+      "x": 83,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391151950,
+      "x": 83,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391151983,
+      "x": 82,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391152017,
+      "x": 81,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391152048,
+      "x": 81,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391152073,
+      "x": 80,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391152100,
+      "x": 80,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391152134,
+      "x": 79,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391152166,
+      "x": 80,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391152200,
+      "x": 80,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391152225,
+      "x": 80,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391152269,
+      "x": 80,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391152303,
+      "x": 81,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391152334,
+      "x": 82,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391152366,
+      "x": 83,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391152399,
+      "x": 84,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391152423,
+      "x": 85,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391152447,
+      "x": 86,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391152473,
+      "x": 87,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391152498,
+      "x": 88,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391152521,
+      "x": 89,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391152551,
+      "x": 89,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391152577,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391152614,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391152639,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391152664,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391152697,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391152723,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391152746,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391152778,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391152806,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391152832,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391152862,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391152894,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391152921,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391152947,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391152973,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391152998,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391153023,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391153049,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391153079,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391153108,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391153132,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391153164,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391153190,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391153219,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391153245,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391153275,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391153298,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391153320,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391153347,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391153372,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391153398,
+      "x": 89,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391153424,
+      "x": 89,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391153447,
+      "x": 88,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391153473,
+      "x": 88,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391153498,
+      "x": 88,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391153523,
+      "x": 88,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391153548,
+      "x": 87,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391153580,
+      "x": 87,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391153606,
+      "x": 87,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391153631,
+      "x": 87,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391153664,
+      "x": 87,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391153690,
+      "x": 86,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391153714,
+      "x": 86,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391153740,
+      "x": 86,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391153765,
+      "x": 86,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391153790,
+      "x": 86,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391153820,
+      "x": 87,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391153849,
+      "x": 87,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391153880,
+      "x": 87,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391153906,
+      "x": 88,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391153931,
+      "x": 89,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391153956,
+      "x": 89,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391153982,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391154014,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391154042,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391154072,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391154098,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391154129,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391154157,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391154189,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391154215,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391154241,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391154266,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391154290,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391154323,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391154357,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391154390,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391154424,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391154444,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391154475,
+      "x": 92,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391154508,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391154544,
+      "x": 92,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391154577,
+      "x": 92,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391154607,
+      "x": 92,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391154633,
+      "x": 92,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391154666,
+      "x": 92,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391154699,
+      "x": 92,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391154728,
+      "x": 92,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391154757,
+      "x": 92,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391154790,
+      "x": 92,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391154819,
+      "x": 92,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391154852,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391154883,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391154915,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391154948,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391154982,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391155016,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391155048,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391155066,
+      "x": 89,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391155098,
+      "x": 89,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391155132,
+      "x": 89,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391155167,
+      "x": 89,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391155199,
+      "x": 89,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391155233,
+      "x": 89,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391155265,
+      "x": 88,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391155287,
+      "x": 88,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391155318,
+      "x": 88,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391155349,
+      "x": 88,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391155383,
+      "x": 88,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391155419,
+      "x": 88,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391155449,
+      "x": 88,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391155485,
+      "x": 88,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391155518,
+      "x": 86,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391155549,
+      "x": 84,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391155585,
+      "x": 83,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391155616,
+      "x": 82,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391155649,
+      "x": 81,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391155682,
+      "x": 81,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391155716,
+      "x": 81,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391155753,
+      "x": 81,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391155782,
+      "x": 80,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391155815,
+      "x": 80,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391155850,
+      "x": 80,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391155885,
+      "x": 80,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391155919,
+      "x": 80,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391155956,
+      "x": 80,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391155994,
+      "x": 80,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391156040,
+      "x": 80,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391156082,
+      "x": 81,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391156120,
+      "x": 81,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391156152,
+      "x": 82,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391156184,
+      "x": 82,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391156219,
+      "x": 82,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391156251,
+      "x": 83,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391156283,
+      "x": 85,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391156326,
+      "x": 86,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391156359,
+      "x": 88,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391156400,
+      "x": 89,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391156436,
+      "x": 90,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391156468,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391156500,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391156535,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391156569,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391156609,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391156644,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391156677,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391156710,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391156741,
+      "x": 92,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391156777,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391156808,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391156843,
+      "x": 88,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391156877,
+      "x": 85,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391156912,
+      "x": 84,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391156940,
+      "x": 83,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391156969,
+      "x": 83,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391156999,
+      "x": 83,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391157036,
+      "x": 83,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391157062,
+      "x": 85,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391157103,
+      "x": 86,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391157139,
+      "x": 86,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391157177,
+      "x": 87,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391157216,
+      "x": 88,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391157258,
+      "x": 89,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391157295,
+      "x": 89,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391157327,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391157363,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391157391,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391157428,
+      "x": 94,
+      "y": 20
+    },
+    {
+      "timestamp": 1765391157458,
+      "x": 96,
+      "y": 20
+    },
+    {
+      "timestamp": 1765391157491,
+      "x": 98,
+      "y": 21
+    },
+    {
+      "timestamp": 1765391157525,
+      "x": 99,
+      "y": 21
+    },
+    {
+      "timestamp": 1765391157557,
+      "x": 100,
+      "y": 21
+    },
+    {
+      "timestamp": 1765391157591,
+      "x": 101,
+      "y": 21
+    },
+    {
+      "timestamp": 1765391157622,
+      "x": 101,
+      "y": 21
+    },
+    {
+      "timestamp": 1765391157649,
+      "x": 101,
+      "y": 21
+    },
+    {
+      "timestamp": 1765391157683,
+      "x": 100,
+      "y": 21
+    },
+    {
+      "timestamp": 1765391157722,
+      "x": 100,
+      "y": 21
+    },
+    {
+      "timestamp": 1765391157749,
+      "x": 100,
+      "y": 21
+    },
+    {
+      "timestamp": 1765391157789,
+      "x": 99,
+      "y": 21
+    },
+    {
+      "timestamp": 1765391157828,
+      "x": 99,
+      "y": 20
+    },
+    {
+      "timestamp": 1765391157862,
+      "x": 94,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391157892,
+      "x": 89,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391157932,
+      "x": 85,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391157968,
+      "x": 87,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391158001,
+      "x": 87,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391158035,
+      "x": 87,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391158068,
+      "x": 89,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391158103,
+      "x": 90,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391158133,
+      "x": 92,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391158174,
+      "x": 93,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391158209,
+      "x": 94,
+      "y": 20
+    },
+    {
+      "timestamp": 1765391158242,
+      "x": 95,
+      "y": 20
+    },
+    {
+      "timestamp": 1765391158277,
+      "x": 95,
+      "y": 20
+    },
+    {
+      "timestamp": 1765391158310,
+      "x": 174,
+      "y": 72
+    },
+    {
+      "timestamp": 1765391158350,
+      "x": 258,
+      "y": 127
+    },
+    {
+      "timestamp": 1765391158385,
+      "x": 304,
+      "y": 157
+    },
+    {
+      "timestamp": 1765391158424,
+      "x": 345,
+      "y": 184
+    },
+    {
+      "timestamp": 1765391158459,
+      "x": 403,
+      "y": 223
+    },
+    {
+      "timestamp": 1765391158494,
+      "x": 470,
+      "y": 268
+    },
+    {
+      "timestamp": 1765391158534,
+      "x": 467,
+      "y": 266
+    },
+    {
+      "timestamp": 1765391158568,
+      "x": 532,
+      "y": 309
+    },
+    {
+      "timestamp": 1765391158601,
+      "x": 521,
+      "y": 302
+    },
+    {
+      "timestamp": 1765391158636,
+      "x": 544,
+      "y": 318
+    },
+    {
+      "timestamp": 1765391158664,
+      "x": 552,
+      "y": 320
+    },
+    {
+      "timestamp": 1765391158700,
+      "x": 567,
+      "y": 326
+    },
+    {
+      "timestamp": 1765391158737,
+      "x": 556,
+      "y": 313
+    },
+    {
+      "timestamp": 1765391158787,
+      "x": 543,
+      "y": 302
+    },
+    {
+      "timestamp": 1765391158843,
+      "x": 517,
+      "y": 285
+    },
+    {
+      "timestamp": 1765391158876,
+      "x": 487,
+      "y": 263
+    },
+    {
+      "timestamp": 1765391158911,
+      "x": 428,
+      "y": 225
+    },
+    {
+      "timestamp": 1765391158956,
+      "x": 392,
+      "y": 202
+    },
+    {
+      "timestamp": 1765391158993,
+      "x": 375,
+      "y": 191
+    },
+    {
+      "timestamp": 1765391159026,
+      "x": 329,
+      "y": 162
+    },
+    {
+      "timestamp": 1765391159060,
+      "x": 285,
+      "y": 135
+    },
+    {
+      "timestamp": 1765391159095,
+      "x": 312,
+      "y": 151
+    },
+    {
+      "timestamp": 1765391159126,
+      "x": 343,
+      "y": 167
+    },
+    {
+      "timestamp": 1765391159159,
+      "x": 295,
+      "y": 138
+    },
+    {
+      "timestamp": 1765391159190,
+      "x": 218,
+      "y": 92
+    },
+    {
+      "timestamp": 1765391159224,
+      "x": 297,
+      "y": 135
+    },
+    {
+      "timestamp": 1765391159257,
+      "x": 346,
+      "y": 163
+    },
+    {
+      "timestamp": 1765391159290,
+      "x": 287,
+      "y": 129
+    },
+    {
+      "timestamp": 1765391159324,
+      "x": 223,
+      "y": 93
+    },
+    {
+      "timestamp": 1765391159357,
+      "x": 167,
+      "y": 62
+    },
+    {
+      "timestamp": 1765391159388,
+      "x": 143,
+      "y": 47
+    },
+    {
+      "timestamp": 1765391159416,
+      "x": 123,
+      "y": 35
+    },
+    {
+      "timestamp": 1765391159448,
+      "x": 109,
+      "y": 26
+    },
+    {
+      "timestamp": 1765391159482,
+      "x": 105,
+      "y": 24
+    },
+    {
+      "timestamp": 1765391159518,
+      "x": 98,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391159554,
+      "x": 95,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391159582,
+      "x": 93,
+      "y": 16
+    },
+    {
+      "timestamp": 1765391159618,
+      "x": 95,
+      "y": 17
+    },
+    {
+      "timestamp": 1765391159660,
+      "x": 95,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391159693,
+      "x": 91,
+      "y": 16
+    },
+    {
+      "timestamp": 1765391159724,
+      "x": 94,
+      "y": 18
+    },
+    {
+      "timestamp": 1765391159752,
+      "x": 84,
+      "y": 13
+    },
+    {
+      "timestamp": 1765391159781,
+      "x": 79,
+      "y": 10
+    },
+    {
+      "timestamp": 1765391159807,
+      "x": 59,
+      "y": 1
+    },
+    {
+      "timestamp": 1765391159835,
+      "x": 40,
+      "y": -9
+    },
+    {
+      "timestamp": 1765391159865,
+      "x": 41,
+      "y": -7
+    },
+    {
+      "timestamp": 1765391159890,
+      "x": 47,
+      "y": -4
+    },
+    {
+      "timestamp": 1765391159915,
+      "x": 57,
+      "y": 1
+    },
+    {
+      "timestamp": 1765391159940,
+      "x": 69,
+      "y": 7
+    },
+    {
+      "timestamp": 1765391159972,
+      "x": 77,
+      "y": 12
+    },
+    {
+      "timestamp": 1765391160005,
+      "x": 84,
+      "y": 15
+    },
+    {
+      "timestamp": 1765391160031,
+      "x": 91,
+      "y": 19
+    },
+    {
+      "timestamp": 1765391160062,
+      "x": 97,
+      "y": 22
+    },
+    {
+      "timestamp": 1765391160097,
+      "x": 101,
+      "y": 24
+    },
+    {
+      "timestamp": 1765391160123,
+      "x": 105,
+      "y": 27
+    },
+    {
+      "timestamp": 1765391160147,
+      "x": 110,
+      "y": 29
+    },
+    {
+      "timestamp": 1765391160170,
+      "x": 113,
+      "y": 30
+    },
+    {
+      "timestamp": 1765391160197,
+      "x": 114,
+      "y": 31
+    },
+    {
+      "timestamp": 1765391160222,
+      "x": 114,
+      "y": 31
+    },
+    {
+      "timestamp": 1765391160247,
+      "x": 114,
+      "y": 31
+    },
+    {
+      "timestamp": 1765391160272,
+      "x": 113,
+      "y": 31
+    },
+    {
+      "timestamp": 1765391160297,
+      "x": 113,
+      "y": 30
+    },
+    {
+      "timestamp": 1765391160322,
+      "x": 113,
+      "y": 30
+    },
+    {
+      "timestamp": 1765391160342,
+      "x": 111,
+      "y": 29
+    },
+    {
+      "timestamp": 1765391160373,
+      "x": 109,
+      "y": 28
+    },
+    {
+      "timestamp": 1765391160402,
+      "x": 107,
+      "y": 27
+    },
+    {
+      "timestamp": 1765391160430,
+      "x": 105,
+      "y": 26
+    },
+    {
+      "timestamp": 1765391160455,
+      "x": 104,
+      "y": 26
+    },
+    {
+      "timestamp": 1765391160480,
+      "x": 103,
+      "y": 25
+    },
+    {
+      "timestamp": 1765391160506,
+      "x": 102,
+      "y": 25
+    },
+    {
+      "timestamp": 1765391160539,
+      "x": 101,
+      "y": 25
+    },
+    {
+      "timestamp": 1765391160564,
+      "x": 100,
+      "y": 25
+    },
+    {
+      "timestamp": 1765391160597,
+      "x": 100,
+      "y": 25
+    },
+    {
+      "timestamp": 1765391160622,
+      "x": 99,
+      "y": 24
+    },
+    {
+      "timestamp": 1765391160648,
+      "x": 99,
+      "y": 24
+    },
+    {
+      "timestamp": 1765391160678,
+      "x": 99,
+      "y": 24
+    },
+    {
+      "timestamp": 1765391160705,
+      "x": 100,
+      "y": 25
+    },
+    {
+      "timestamp": 1765391160731,
+      "x": 100,
+      "y": 25
+    },
+    {
+      "timestamp": 1765391160764,
+      "x": 101,
+      "y": 25
+    },
+    {
+      "timestamp": 1765391160798,
+      "x": 101,
+      "y": 25
+    },
+    {
+      "timestamp": 1765391160823,
+      "x": 102,
+      "y": 25
+    },
+    {
+      "timestamp": 1765391160857,
+      "x": 102,
+      "y": 25
+    },
+    {
+      "timestamp": 1765391160893,
+      "x": 103,
+      "y": 25
+    },
+    {
+      "timestamp": 1765391160926,
+      "x": 103,
+      "y": 26
+    },
+    {
+      "timestamp": 1765391160960,
+      "x": 103,
+      "y": 26
+    },
+    {
+      "timestamp": 1765391160994,
+      "x": 103,
+      "y": 26
+    },
+    {
+      "timestamp": 1765391161029,
+      "x": 104,
+      "y": 26
+    },
+    {
+      "timestamp": 1765391161056,
+      "x": 104,
+      "y": 26
+    },
+    {
+      "timestamp": 1765391161089,
+      "x": 104,
+      "y": 26
+    },
+    {
+      "timestamp": 1765391161122,
+      "x": 105,
+      "y": 26
+    },
+    {
+      "timestamp": 1765391161145,
+      "x": 106,
+      "y": 26
+    },
+    {
+      "timestamp": 1765391161174,
+      "x": 106,
+      "y": 27
+    },
+    {
+      "timestamp": 1765391161207,
+      "x": 107,
+      "y": 27
+    },
+    {
+      "timestamp": 1765391161240,
+      "x": 108,
+      "y": 27
+    },
+    {
+      "timestamp": 1765391161273,
+      "x": 107,
+      "y": 26
+    },
+    {
+      "timestamp": 1765391161306,
+      "x": 107,
+      "y": 27
+    },
+    {
+      "timestamp": 1765391161338,
+      "x": 107,
+      "y": 27
+    },
+    {
+      "timestamp": 1765391161365,
+      "x": 108,
+      "y": 27
+    },
+    {
+      "timestamp": 1765391161397,
+      "x": 108,
+      "y": 27
+    },
+    {
+      "timestamp": 1765391161432,
+      "x": 107,
+      "y": 27
+    },
+    {
+      "timestamp": 1765391161465,
+      "x": 106,
+      "y": 26
+    },
+    {
+      "timestamp": 1765391161501,
+      "x": 105,
+      "y": 27
+    },
+    {
+      "timestamp": 1765391161532,
+      "x": 104,
+      "y": 28
+    },
+    {
+      "timestamp": 1765391161561,
+      "x": 99,
+      "y": 28
+    },
+    {
+      "timestamp": 1765391161588,
+      "x": 97,
+      "y": 29
+    },
+    {
+      "timestamp": 1765391161621,
+      "x": 92,
+      "y": 29
+    },
+    {
+      "timestamp": 1765391161659,
+      "x": 89,
+      "y": 29
+    },
+    {
+      "timestamp": 1765391161690,
+      "x": 87,
+      "y": 28
+    },
+    {
+      "timestamp": 1765391161725,
+      "x": 84,
+      "y": 27
+    },
+    {
+      "timestamp": 1765391161759,
+      "x": 84,
+      "y": 26
+    },
+    {
+      "timestamp": 1765391161793,
+      "x": 82,
+      "y": 27
+    },
+    {
+      "timestamp": 1765391161826,
+      "x": 82,
+      "y": 29
+    },
+    {
+      "timestamp": 1765391161867,
+      "x": 84,
+      "y": 31
+    },
+    {
+      "timestamp": 1765391161906,
+      "x": 81,
+      "y": 31
+    },
+    {
+      "timestamp": 1765391161943,
+      "x": 82,
+      "y": 31
+    },
+    {
+      "timestamp": 1765391161976,
+      "x": 82,
+      "y": 32
+    },
+    {
+      "timestamp": 1765391162007,
+      "x": 82,
+      "y": 33
+    },
+    {
+      "timestamp": 1765391162040,
+      "x": 84,
+      "y": 33
+    },
+    {
+      "timestamp": 1765391162076,
+      "x": 86,
+      "y": 33
+    },
+    {
+      "timestamp": 1765391162109,
+      "x": 86,
+      "y": 33
+    },
+    {
+      "timestamp": 1765391162146,
+      "x": 87,
+      "y": 33
+    },
+    {
+      "timestamp": 1765391162176,
+      "x": 86,
+      "y": 34
+    },
+    {
+      "timestamp": 1765391162209,
+      "x": 84,
+      "y": 33
+    },
+    {
+      "timestamp": 1765391162244,
+      "x": 82,
+      "y": 32
+    },
+    {
+      "timestamp": 1765391162276,
+      "x": 82,
+      "y": 32
+    },
+    {
+      "timestamp": 1765391162309,
+      "x": 80,
+      "y": 30
+    },
+    {
+      "timestamp": 1765391162340,
+      "x": 77,
+      "y": 29
+    },
+    {
+      "timestamp": 1765391162373,
+      "x": 76,
+      "y": 29
+    },
+    {
+      "timestamp": 1765391162409,
+      "x": 76,
+      "y": 29
+    },
+    {
+      "timestamp": 1765391162440,
+      "x": 76,
+      "y": 27
+    },
+    {
+      "timestamp": 1765391162473,
+      "x": 74,
+      "y": 24
+    },
+    {
+      "timestamp": 1765391162507,
+      "x": 94,
+      "y": 25
+    },
+    {
+      "timestamp": 1765391162542,
+      "x": 135,
+      "y": 30
+    },
+    {
+      "timestamp": 1765391162575,
+      "x": 276,
+      "y": 46
+    },
+    {
+      "timestamp": 1765391162609,
+      "x": 324,
+      "y": 51
+    },
+    {
+      "timestamp": 1765391162642,
+      "x": 481,
+      "y": 70
+    },
+    {
+      "timestamp": 1765391162670,
+      "x": 512,
+      "y": 74
+    },
+    {
+      "timestamp": 1765391162707,
+      "x": 678,
+      "y": 93
+    },
+    {
+      "timestamp": 1765391162745,
+      "x": 790,
+      "y": 105
+    },
+    {
+      "timestamp": 1765391162776,
+      "x": 939,
+      "y": 118
+    },
+    {
+      "timestamp": 1765391162811,
+      "x": 1060,
+      "y": 122
+    },
+    {
+      "timestamp": 1765391162842,
+      "x": 1230,
+      "y": 134
+    },
+    {
+      "timestamp": 1765391162878,
+      "x": 1283,
+      "y": 127
+    },
+    {
+      "timestamp": 1765391162909,
+      "x": 1264,
+      "y": 115
+    },
+    {
+      "timestamp": 1765391162943,
+      "x": 1258,
+      "y": 112
+    },
+    {
+      "timestamp": 1765391162978,
+      "x": 1366,
+      "y": 122
+    },
+    {
+      "timestamp": 1765391163023,
+      "x": 1438,
+      "y": 107
+    },
+    {
+      "timestamp": 1765391163069,
+      "x": 1473,
+      "y": 99
+    },
+    {
+      "timestamp": 1765391163111,
+      "x": 1507,
+      "y": 86
+    },
+    {
+      "timestamp": 1765391163144,
+      "x": 1398,
+      "y": 95
+    },
+    {
+      "timestamp": 1765391163176,
+      "x": 1431,
+      "y": 88
+    },
+    {
+      "timestamp": 1765391163213,
+      "x": 1371,
+      "y": 94
+    },
+    {
+      "timestamp": 1765391163245,
+      "x": 1331,
+      "y": 88
+    },
+    {
+      "timestamp": 1765391163278,
+      "x": 1065,
+      "y": 81
+    },
+    {
+      "timestamp": 1765391163313,
+      "x": 709,
+      "y": 56
+    },
+    {
+      "timestamp": 1765391163354,
+      "x": 451,
+      "y": 47
+    },
+    {
+      "timestamp": 1765391163392,
+      "x": 261,
+      "y": 37
+    },
+    {
+      "timestamp": 1765391163427,
+      "x": 323,
+      "y": 41
+    },
+    {
+      "timestamp": 1765391163464,
+      "x": 483,
+      "y": 65
+    },
+    {
+      "timestamp": 1765391163507,
+      "x": 565,
+      "y": 74
+    },
+    {
+      "timestamp": 1765391163543,
+      "x": 668,
+      "y": 79
+    },
+    {
+      "timestamp": 1765391163574,
+      "x": 732,
+      "y": 90
+    },
+    {
+      "timestamp": 1765391163610,
+      "x": 836,
+      "y": 92
+    },
+    {
+      "timestamp": 1765391163642,
+      "x": 943,
+      "y": 95
+    },
+    {
+      "timestamp": 1765391163678,
+      "x": 1038,
+      "y": 91
+    },
+    {
+      "timestamp": 1765391163711,
+      "x": 1161,
+      "y": 97
+    },
+    {
+      "timestamp": 1765391163751,
+      "x": 1240,
+      "y": 86
+    },
+    {
+      "timestamp": 1765391163782,
+      "x": 1301,
+      "y": 79
+    },
+    {
+      "timestamp": 1765391163817,
+      "x": 1343,
+      "y": 73
+    },
+    {
+      "timestamp": 1765391163851,
+      "x": 1382,
+      "y": 67
+    },
+    {
+      "timestamp": 1765391163884,
+      "x": 1420,
+      "y": 61
+    },
+    {
+      "timestamp": 1765391163917,
+      "x": 1447,
+      "y": 56
+    },
+    {
+      "timestamp": 1765391163951,
+      "x": 1463,
+      "y": 50
+    },
+    {
+      "timestamp": 1765391163984,
+      "x": 1451,
+      "y": 45
+    },
+    {
+      "timestamp": 1765391164021,
+      "x": 1453,
+      "y": 40
+    },
+    {
+      "timestamp": 1765391164063,
+      "x": 1449,
+      "y": 37
+    }
+  ]
+}

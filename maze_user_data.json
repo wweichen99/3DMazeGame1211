@@ -1,0 +1,1301 @@
+{
+  "sessionInfo": {
+    "startTime": 1764089291102,
+    "endTime": 1764089318360,
+    "totalLogEntries": 107
+  },
+  "mapInfo": {
+    "width": 15,
+    "height": 23
+  },
+  "minimapHeatmap": {
+    "hovers": {},
+    "clicks": {}
+  },
+  "viewportDwellTime": [
+    {
+      "timestamp": 1764089291102,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1764089291353,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1764089291611,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1764089291869,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1764089292128,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1764089292386,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1764089292637,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1764089292894,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1764089293145,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1764089293403,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-850.00"
+      },
+      "targetAngles": {
+        "Start": "NaN",
+        "Exit": "148.57"
+      }
+    },
+    {
+      "timestamp": 1764089293661,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-775.00"
+      },
+      "targetAngles": {
+        "Start": "0.00",
+        "Exit": "147.48"
+      }
+    },
+    {
+      "timestamp": 1764089293919,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-775.00"
+      },
+      "targetAngles": {
+        "Start": "0.00",
+        "Exit": "147.48"
+      }
+    },
+    {
+      "timestamp": 1764089294170,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-775.00"
+      },
+      "targetAngles": {
+        "Start": "0.00",
+        "Exit": "147.48"
+      }
+    },
+    {
+      "timestamp": 1764089294427,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-775.00"
+      },
+      "targetAngles": {
+        "Start": "0.00",
+        "Exit": "147.48"
+      }
+    },
+    {
+      "timestamp": 1764089294678,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-775.00"
+      },
+      "targetAngles": {
+        "Start": "59.59",
+        "Exit": "152.94"
+      }
+    },
+    {
+      "timestamp": 1764089294936,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-775.00"
+      },
+      "targetAngles": {
+        "Start": "130.63",
+        "Exit": "81.89"
+      }
+    },
+    {
+      "timestamp": 1764089295194,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-775.00"
+      },
+      "targetAngles": {
+        "Start": "171.89",
+        "Exit": "40.64"
+      }
+    },
+    {
+      "timestamp": 1764089295453,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-775.00"
+      },
+      "targetAngles": {
+        "Start": "160.61",
+        "Exit": "13.14"
+      }
+    },
+    {
+      "timestamp": 1764089295711,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-775.00"
+      },
+      "targetAngles": {
+        "Start": "110.19",
+        "Exit": "37.28"
+      }
+    },
+    {
+      "timestamp": 1764089295969,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-775.00"
+      },
+      "targetAngles": {
+        "Start": "64.35",
+        "Exit": "83.12"
+      }
+    },
+    {
+      "timestamp": 1764089296227,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-775.00"
+      },
+      "targetAngles": {
+        "Start": "64.35",
+        "Exit": "83.12"
+      }
+    },
+    {
+      "timestamp": 1764089296486,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-775.00"
+      },
+      "targetAngles": {
+        "Start": "107.90",
+        "Exit": "39.58"
+      }
+    },
+    {
+      "timestamp": 1764089296744,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-775.00"
+      },
+      "targetAngles": {
+        "Start": "107.90",
+        "Exit": "39.58"
+      }
+    },
+    {
+      "timestamp": 1764089297002,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-775.00"
+      },
+      "targetAngles": {
+        "Start": "126.23",
+        "Exit": "21.24"
+      }
+    },
+    {
+      "timestamp": 1764089297260,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-775.00"
+      },
+      "targetAngles": {
+        "Start": "139.98",
+        "Exit": "7.49"
+      }
+    },
+    {
+      "timestamp": 1764089297519,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-775.00"
+      },
+      "targetAngles": {
+        "Start": "139.98",
+        "Exit": "7.49"
+      }
+    },
+    {
+      "timestamp": 1764089297777,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-775.00"
+      },
+      "targetAngles": {
+        "Start": "139.98",
+        "Exit": "7.49"
+      }
+    },
+    {
+      "timestamp": 1764089298035,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-775.00"
+      },
+      "targetAngles": {
+        "Start": "139.98",
+        "Exit": "7.49"
+      }
+    },
+    {
+      "timestamp": 1764089298294,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-775.00"
+      },
+      "targetAngles": {
+        "Start": "139.98",
+        "Exit": "7.49"
+      }
+    },
+    {
+      "timestamp": 1764089298552,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-775.00"
+      },
+      "targetAngles": {
+        "Start": "139.98",
+        "Exit": "7.49"
+      }
+    },
+    {
+      "timestamp": 1764089298812,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-775.00"
+      },
+      "targetAngles": {
+        "Start": "139.98",
+        "Exit": "7.49"
+      }
+    },
+    {
+      "timestamp": 1764089299069,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-775.00"
+      },
+      "targetAngles": {
+        "Start": "139.98",
+        "Exit": "7.49"
+      }
+    },
+    {
+      "timestamp": 1764089299326,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-775.00"
+      },
+      "targetAngles": {
+        "Start": "139.98",
+        "Exit": "7.49"
+      }
+    },
+    {
+      "timestamp": 1764089299577,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-775.00"
+      },
+      "targetAngles": {
+        "Start": "139.98",
+        "Exit": "7.49"
+      }
+    },
+    {
+      "timestamp": 1764089299835,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-775.00"
+      },
+      "targetAngles": {
+        "Start": "139.98",
+        "Exit": "7.49"
+      }
+    },
+    {
+      "timestamp": 1764089300093,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-775.00"
+      },
+      "targetAngles": {
+        "Start": "140.56",
+        "Exit": "6.92"
+      }
+    },
+    {
+      "timestamp": 1764089300354,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-775.00"
+      },
+      "targetAngles": {
+        "Start": "140.56",
+        "Exit": "6.92"
+      }
+    },
+    {
+      "timestamp": 1764089300612,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-775.00"
+      },
+      "targetAngles": {
+        "Start": "140.56",
+        "Exit": "6.92"
+      }
+    },
+    {
+      "timestamp": 1764089300869,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-775.00"
+      },
+      "targetAngles": {
+        "Start": "140.56",
+        "Exit": "6.92"
+      }
+    },
+    {
+      "timestamp": 1764089301127,
+      "cameraPos": {
+        "x": "450.00",
+        "y": "50.00",
+        "z": "-775.00"
+      },
+      "targetAngles": {
+        "Start": "140.56",
+        "Exit": "6.92"
+      }
+    },
+    {
+      "timestamp": 1764089301385,
+      "cameraPos": {
+        "x": "507.43",
+        "y": "50.00",
+        "z": "-830.67"
+      },
+      "targetAngles": {
+        "Start": "62.28",
+        "Exit": "13.29"
+      }
+    },
+    {
+      "timestamp": 1764089301643,
+      "cameraPos": {
+        "x": "521.89",
+        "y": "50.00",
+        "z": "-844.48"
+      },
+      "targetAngles": {
+        "Start": "48.07",
+        "Exit": "13.17"
+      }
+    },
+    {
+      "timestamp": 1764089301895,
+      "cameraPos": {
+        "x": "521.89",
+        "y": "50.00",
+        "z": "-844.48"
+      },
+      "targetAngles": {
+        "Start": "48.07",
+        "Exit": "13.17"
+      }
+    },
+    {
+      "timestamp": 1764089302152,
+      "cameraPos": {
+        "x": "521.89",
+        "y": "50.00",
+        "z": "-844.48"
+      },
+      "targetAngles": {
+        "Start": "0.06",
+        "Exit": "61.30"
+      }
+    },
+    {
+      "timestamp": 1764089302410,
+      "cameraPos": {
+        "x": "521.89",
+        "y": "50.00",
+        "z": "-844.48"
+      },
+      "targetAngles": {
+        "Start": "0.06",
+        "Exit": "61.30"
+      }
+    },
+    {
+      "timestamp": 1764089302661,
+      "cameraPos": {
+        "x": "427.18",
+        "y": "50.00",
+        "z": "-851.85"
+      },
+      "targetAngles": {
+        "Start": "179.81",
+        "Exit": "63.58"
+      }
+    },
+    {
+      "timestamp": 1764089302918,
+      "cameraPos": {
+        "x": "357.39",
+        "y": "50.00",
+        "z": "-857.28"
+      },
+      "targetAngles": {
+        "Start": "179.95",
+        "Exit": "65.31"
+      }
+    },
+    {
+      "timestamp": 1764089303169,
+      "cameraPos": {
+        "x": "357.39",
+        "y": "50.00",
+        "z": "-857.28"
+      },
+      "targetAngles": {
+        "Start": "159.33",
+        "Exit": "44.68"
+      }
+    },
+    {
+      "timestamp": 1764089303426,
+      "cameraPos": {
+        "x": "357.39",
+        "y": "50.00",
+        "z": "-857.28"
+      },
+      "targetAngles": {
+        "Start": "134.12",
+        "Exit": "19.47"
+      }
+    },
+    {
+      "timestamp": 1764089303677,
+      "cameraPos": {
+        "x": "357.39",
+        "y": "50.00",
+        "z": "-857.28"
+      },
+      "targetAngles": {
+        "Start": "134.12",
+        "Exit": "19.47"
+      }
+    },
+    {
+      "timestamp": 1764089303928,
+      "cameraPos": {
+        "x": "357.39",
+        "y": "50.00",
+        "z": "-857.28"
+      },
+      "targetAngles": {
+        "Start": "90.57",
+        "Exit": "24.07"
+      }
+    },
+    {
+      "timestamp": 1764089304187,
+      "cameraPos": {
+        "x": "355.62",
+        "y": "50.00",
+        "z": "-837.36"
+      },
+      "targetAngles": {
+        "Start": "102.70",
+        "Exit": "24.30"
+      }
+    },
+    {
+      "timestamp": 1764089304444,
+      "cameraPos": {
+        "x": "341.94",
+        "y": "50.00",
+        "z": "-682.96"
+      },
+      "targetAngles": {
+        "Start": "152.16",
+        "Exit": "26.21"
+      }
+    },
+    {
+      "timestamp": 1764089304702,
+      "cameraPos": {
+        "x": "337.52",
+        "y": "50.00",
+        "z": "-633.16"
+      },
+      "targetAngles": {
+        "Start": "157.65",
+        "Exit": "26.89"
+      }
+    },
+    {
+      "timestamp": 1764089304960,
+      "cameraPos": {
+        "x": "326.93",
+        "y": "50.00",
+        "z": "-513.63"
+      },
+      "targetAngles": {
+        "Start": "164.97",
+        "Exit": "28.66"
+      }
+    },
+    {
+      "timestamp": 1764089305211,
+      "cameraPos": {
+        "x": "324.28",
+        "y": "50.00",
+        "z": "-483.74"
+      },
+      "targetAngles": {
+        "Start": "177.58",
+        "Exit": "17.67"
+      }
+    },
+    {
+      "timestamp": 1764089305467,
+      "cameraPos": {
+        "x": "324.28",
+        "y": "50.00",
+        "z": "-483.74"
+      },
+      "targetAngles": {
+        "Start": "129.71",
+        "Exit": "35.04"
+      }
+    },
+    {
+      "timestamp": 1764089305719,
+      "cameraPos": {
+        "x": "291.55",
+        "y": "50.00",
+        "z": "-471.33"
+      },
+      "targetAngles": {
+        "Start": "133.47",
+        "Exit": "35.71"
+      }
+    },
+    {
+      "timestamp": 1764089305977,
+      "cameraPos": {
+        "x": "235.45",
+        "y": "50.00",
+        "z": "-450.06"
+      },
+      "targetAngles": {
+        "Start": "138.98",
+        "Exit": "36.93"
+      }
+    },
+    {
+      "timestamp": 1764089306235,
+      "cameraPos": {
+        "x": "235.45",
+        "y": "50.00",
+        "z": "-450.06"
+      },
+      "targetAngles": {
+        "Start": "166.02",
+        "Exit": "18.08"
+      }
+    },
+    {
+      "timestamp": 1764089306493,
+      "cameraPos": {
+        "x": "235.45",
+        "y": "50.00",
+        "z": "-450.06"
+      },
+      "targetAngles": {
+        "Start": "156.85",
+        "Exit": "27.25"
+      }
+    },
+    {
+      "timestamp": 1764089306751,
+      "cameraPos": {
+        "x": "235.45",
+        "y": "50.00",
+        "z": "-450.06"
+      },
+      "targetAngles": {
+        "Start": "161.44",
+        "Exit": "22.66"
+      }
+    },
+    {
+      "timestamp": 1764089307002,
+      "cameraPos": {
+        "x": "235.45",
+        "y": "50.00",
+        "z": "-450.06"
+      },
+      "targetAngles": {
+        "Start": "164.19",
+        "Exit": "11.72"
+      }
+    },
+    {
+      "timestamp": 1764089307253,
+      "cameraPos": {
+        "x": "159.00",
+        "y": "50.00",
+        "z": "-370.97"
+      },
+      "targetAngles": {
+        "Start": "167.25",
+        "Exit": "12.54"
+      }
+    },
+    {
+      "timestamp": 1764089307510,
+      "cameraPos": {
+        "x": "82.55",
+        "y": "50.00",
+        "z": "-291.88"
+      },
+      "targetAngles": {
+        "Start": "169.33",
+        "Exit": "13.49"
+      }
+    },
+    {
+      "timestamp": 1764089307768,
+      "cameraPos": {
+        "x": "82.55",
+        "y": "50.00",
+        "z": "-291.88"
+      },
+      "targetAngles": {
+        "Start": "169.33",
+        "Exit": "13.49"
+      }
+    },
+    {
+      "timestamp": 1764089308026,
+      "cameraPos": {
+        "x": "82.55",
+        "y": "50.00",
+        "z": "-291.88"
+      },
+      "targetAngles": {
+        "Start": "169.33",
+        "Exit": "13.49"
+      }
+    },
+    {
+      "timestamp": 1764089308284,
+      "cameraPos": {
+        "x": "82.55",
+        "y": "50.00",
+        "z": "-291.88"
+      },
+      "targetAngles": {
+        "Start": "137.25",
+        "Exit": "45.58"
+      }
+    },
+    {
+      "timestamp": 1764089308542,
+      "cameraPos": {
+        "x": "82.55",
+        "y": "50.00",
+        "z": "-291.88"
+      },
+      "targetAngles": {
+        "Start": "109.75",
+        "Exit": "73.08"
+      }
+    },
+    {
+      "timestamp": 1764089308800,
+      "cameraPos": {
+        "x": "82.55",
+        "y": "50.00",
+        "z": "-291.88"
+      },
+      "targetAngles": {
+        "Start": "89.12",
+        "Exit": "93.71"
+      }
+    },
+    {
+      "timestamp": 1764089309059,
+      "cameraPos": {
+        "x": "82.55",
+        "y": "50.00",
+        "z": "-291.88"
+      },
+      "targetAngles": {
+        "Start": "38.70",
+        "Exit": "144.13"
+      }
+    },
+    {
+      "timestamp": 1764089309317,
+      "cameraPos": {
+        "x": "82.55",
+        "y": "50.00",
+        "z": "-291.88"
+      },
+      "targetAngles": {
+        "Start": "22.66",
+        "Exit": "160.17"
+      }
+    },
+    {
+      "timestamp": 1764089309575,
+      "cameraPos": {
+        "x": "82.55",
+        "y": "50.00",
+        "z": "-291.88"
+      },
+      "targetAngles": {
+        "Start": "6.61",
+        "Exit": "176.21"
+      }
+    },
+    {
+      "timestamp": 1764089309834,
+      "cameraPos": {
+        "x": "82.55",
+        "y": "50.00",
+        "z": "-291.88"
+      },
+      "targetAngles": {
+        "Start": "6.61",
+        "Exit": "176.21"
+      }
+    },
+    {
+      "timestamp": 1764089310092,
+      "cameraPos": {
+        "x": "109.55",
+        "y": "50.00",
+        "z": "-345.46"
+      },
+      "targetAngles": {
+        "Start": "7.26",
+        "Exit": "176.36"
+      }
+    },
+    {
+      "timestamp": 1764089310350,
+      "cameraPos": {
+        "x": "177.06",
+        "y": "50.00",
+        "z": "-479.41"
+      },
+      "targetAngles": {
+        "Start": "9.63",
+        "Exit": "176.69"
+      }
+    },
+    {
+      "timestamp": 1764089310609,
+      "cameraPos": {
+        "x": "177.06",
+        "y": "50.00",
+        "z": "-479.41"
+      },
+      "targetAngles": {
+        "Start": "44.00",
+        "Exit": "142.32"
+      }
+    },
+    {
+      "timestamp": 1764089310860,
+      "cameraPos": {
+        "x": "177.06",
+        "y": "50.00",
+        "z": "-479.41"
+      },
+      "targetAngles": {
+        "Start": "85.26",
+        "Exit": "101.06"
+      }
+    },
+    {
+      "timestamp": 1764089311119,
+      "cameraPos": {
+        "x": "177.06",
+        "y": "50.00",
+        "z": "-479.41"
+      },
+      "targetAngles": {
+        "Start": "85.26",
+        "Exit": "101.06"
+      }
+    },
+    {
+      "timestamp": 1764089311375,
+      "cameraPos": {
+        "x": "101.72",
+        "y": "50.00",
+        "z": "-545.17"
+      },
+      "targetAngles": {
+        "Start": "97.69",
+        "Exit": "104.42"
+      }
+    },
+    {
+      "timestamp": 1764089311634,
+      "cameraPos": {
+        "x": "75.35",
+        "y": "50.00",
+        "z": "-568.19"
+      },
+      "targetAngles": {
+        "Start": "101.93",
+        "Exit": "105.58"
+      }
+    },
+    {
+      "timestamp": 1764089311892,
+      "cameraPos": {
+        "x": "75.35",
+        "y": "50.00",
+        "z": "-568.19"
+      },
+      "targetAngles": {
+        "Start": "58.39",
+        "Exit": "149.12"
+      }
+    },
+    {
+      "timestamp": 1764089312150,
+      "cameraPos": {
+        "x": "72.10",
+        "y": "50.00",
+        "z": "-603.03"
+      },
+      "targetAngles": {
+        "Start": "62.17",
+        "Exit": "149.72"
+      }
+    },
+    {
+      "timestamp": 1764089312408,
+      "cameraPos": {
+        "x": "59.07",
+        "y": "50.00",
+        "z": "-742.43"
+      },
+      "targetAngles": {
+        "Start": "79.95",
+        "Exit": "151.93"
+      }
+    },
+    {
+      "timestamp": 1764089312667,
+      "cameraPos": {
+        "x": "59.07",
+        "y": "50.00",
+        "z": "-742.43"
+      },
+      "targetAngles": {
+        "Start": "79.95",
+        "Exit": "151.93"
+      }
+    },
+    {
+      "timestamp": 1764089312925,
+      "cameraPos": {
+        "x": "54.88",
+        "y": "50.00",
+        "z": "-787.23"
+      },
+      "targetAngles": {
+        "Start": "86.31",
+        "Exit": "152.58"
+      }
+    },
+    {
+      "timestamp": 1764089313183,
+      "cameraPos": {
+        "x": "48.37",
+        "y": "50.00",
+        "z": "-856.93"
+      },
+      "targetAngles": {
+        "Start": "96.33",
+        "Exit": "153.53"
+      }
+    },
+    {
+      "timestamp": 1764089313442,
+      "cameraPos": {
+        "x": "48.37",
+        "y": "50.00",
+        "z": "-856.93"
+      },
+      "targetAngles": {
+        "Start": "142.16",
+        "Exit": "107.69"
+      }
+    },
+    {
+      "timestamp": 1764089313700,
+      "cameraPos": {
+        "x": "48.37",
+        "y": "50.00",
+        "z": "-856.93"
+      },
+      "targetAngles": {
+        "Start": "142.16",
+        "Exit": "107.69"
+      }
+    },
+    {
+      "timestamp": 1764089313951,
+      "cameraPos": {
+        "x": "48.37",
+        "y": "50.00",
+        "z": "-856.93"
+      },
+      "targetAngles": {
+        "Start": "178.83",
+        "Exit": "71.02"
+      }
+    },
+    {
+      "timestamp": 1764089314208,
+      "cameraPos": {
+        "x": "48.37",
+        "y": "50.00",
+        "z": "-856.93"
+      },
+      "targetAngles": {
+        "Start": "165.12",
+        "Exit": "54.98"
+      }
+    },
+    {
+      "timestamp": 1764089314459,
+      "cameraPos": {
+        "x": "-5.02",
+        "y": "50.00",
+        "z": "-843.73"
+      },
+      "targetAngles": {
+        "Start": "166.90",
+        "Exit": "56.33"
+      }
+    },
+    {
+      "timestamp": 1764089314717,
+      "cameraPos": {
+        "x": "-43.86",
+        "y": "50.00",
+        "z": "-834.13"
+      },
+      "targetAngles": {
+        "Start": "167.95",
+        "Exit": "57.35"
+      }
+    },
+    {
+      "timestamp": 1764089314974,
+      "cameraPos": {
+        "x": "-43.86",
+        "y": "50.00",
+        "z": "-834.13"
+      },
+      "targetAngles": {
+        "Start": "139.33",
+        "Exit": "110.06"
+      }
+    },
+    {
+      "timestamp": 1764089315225,
+      "cameraPos": {
+        "x": "-43.86",
+        "y": "50.00",
+        "z": "-834.13"
+      },
+      "targetAngles": {
+        "Start": "137.04",
+        "Exit": "112.35"
+      }
+    },
+    {
+      "timestamp": 1764089315483,
+      "cameraPos": {
+        "x": "-43.86",
+        "y": "50.00",
+        "z": "-834.13"
+      },
+      "targetAngles": {
+        "Start": "95.79",
+        "Exit": "153.60"
+      }
+    },
+    {
+      "timestamp": 1764089315741,
+      "cameraPos": {
+        "x": "-43.86",
+        "y": "50.00",
+        "z": "-834.13"
+      },
+      "targetAngles": {
+        "Start": "95.79",
+        "Exit": "153.60"
+      }
+    },
+    {
+      "timestamp": 1764089316000,
+      "cameraPos": {
+        "x": "-57.80",
+        "y": "50.00",
+        "z": "-938.20"
+      },
+      "targetAngles": {
+        "Start": "107.48",
+        "Exit": "154.96"
+      }
+    },
+    {
+      "timestamp": 1764089316258,
+      "cameraPos": {
+        "x": "-69.09",
+        "y": "50.00",
+        "z": "-1022.44"
+      },
+      "targetAngles": {
+        "Start": "116.01",
+        "Exit": "155.96"
+      }
+    },
+    {
+      "timestamp": 1764089316517,
+      "cameraPos": {
+        "x": "-69.09",
+        "y": "50.00",
+        "z": "-1022.44"
+      },
+      "targetAngles": {
+        "Start": "112.00",
+        "Exit": "159.97"
+      }
+    },
+    {
+      "timestamp": 1764089316775,
+      "cameraPos": {
+        "x": "-69.09",
+        "y": "50.00",
+        "z": "-1022.44"
+      },
+      "targetAngles": {
+        "Start": "112.00",
+        "Exit": "159.97"
+      }
+    },
+    {
+      "timestamp": 1764089317033,
+      "cameraPos": {
+        "x": "-69.09",
+        "y": "50.00",
+        "z": "-1022.44"
+      },
+      "targetAngles": {
+        "Start": "112.00",
+        "Exit": "159.97"
+      }
+    },
+    {
+      "timestamp": 1764089317291,
+      "cameraPos": {
+        "x": "-69.09",
+        "y": "50.00",
+        "z": "-1022.44"
+      },
+      "targetAngles": {
+        "Start": "112.00",
+        "Exit": "159.97"
+      }
+    },
+    {
+      "timestamp": 1764089317549,
+      "cameraPos": {
+        "x": "-69.09",
+        "y": "50.00",
+        "z": "-1022.44"
+      },
+      "targetAngles": {
+        "Start": "112.00",
+        "Exit": "159.97"
+      }
+    },
+    {
+      "timestamp": 1764089317807,
+      "cameraPos": {
+        "x": "-69.09",
+        "y": "50.00",
+        "z": "-1022.44"
+      },
+      "targetAngles": {
+        "Start": "112.00",
+        "Exit": "159.97"
+      }
+    },
+    {
+      "timestamp": 1764089318058,
+      "cameraPos": {
+        "x": "-69.09",
+        "y": "50.00",
+        "z": "-1022.44"
+      },
+      "targetAngles": {
+        "Start": "112.00",
+        "Exit": "159.97"
+      }
+    },
+    {
+      "timestamp": 1764089318315,
+      "cameraPos": {
+        "x": "-69.09",
+        "y": "50.00",
+        "z": "-1022.44"
+      },
+      "targetAngles": {
+        "Start": "112.00",
+        "Exit": "159.97"
+      }
+    }
+  ]
+}
