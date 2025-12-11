@@ -61,8 +61,6 @@ python analyze_maze_logs.py <JSON文件路径或包含JSON的文件夹路径>
   * 输出结果将保存在 `maze_logs_summary.csv` 及 `plots/` 文件夹中。
 
 ### 分析代码 (`analyze_maze_logs.py`)
-下面是 **中文版 README 的“数据分析”部分介绍**，已经根据脚本内容完整总结，并保留技术准确性。同时引用了脚本文件 。
-你可以直接复制进 README。
 
 ---
 
@@ -122,8 +120,6 @@ python analyze_maze_logs.py <JSON文件路径或包含JSON的文件夹路径>
 ---
 
 ## **4. 可视化输出**
-
-脚本生成两类关键图像，可直接用于实验结果展示或论文图示。
 
 ### **a. 热图（heatmap.png）**
 
