@@ -8,80 +8,51 @@
     <meta name="author" content="Yannick Comte" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
     <link rel="stylesheet" media="screen" href="assets/css/style.css" />
-    <style>
-      /* Minimap (Labyrinth-style) */
-      /* [MODIFIED] Top position adjusted to 50px to make room for the toggle button */
-      #map { position: absolute; left: 10px; top: 50px; z-index: 10; }
-      #minimap, #objects { position: absolute; left: 0; top: 0; }
-      
-      /* Data Export Button Style */
-      #exportBtn {
-        position: absolute;
-        top: 10px;
-        right: 10px;
-        z-index: 20;
-        padding: 10px 20px;
-        background-color: #28343A;
-        color: #fff;
-        border: 1px solid #00ffff;
-        cursor: pointer;
-        font-family: sans-serif;
-        font-weight: bold;
-      }
-      #exportBtn:hover {
-        background-color: #00ffff;
-        color: #000;
-      }
-
-      /* [NEW] Minimap Toggle Button Style */
-      #toggleMapBtn {
-        position: absolute;
-        top: 10px;
-        left: 10px;
-        z-index: 20;
-        padding: 8px 15px;
-        background-color: #28343A;
-        color: #fff;
-        border: 1px solid #ffa500; /* Orange border to distinguish from export */
-        cursor: pointer;
-        font-family: sans-serif;
-        font-weight: bold;
-        font-size: 12px;
-      }
-      #toggleMapBtn:hover {
-        background-color: #ffa500;
-        color: #000;
-      }
-
-      /* WebGazer Video Feed Position Adjustment 
-         Force the video container to bottom-left to avoid overlapping the Minimap (top-left) 
-      */
-      #webgazerVideoFeed, #webgazerVideoCanvas, #webgazerFaceOverlay, #webgazerFaceFeedbackBox {
-        top: auto !important;
-        bottom: 0px !important;
-        left: 0px !important;
-        right: auto !important;
-      }
-    </style>
     <script src="https://webgazer.cs.brown.edu/webgazer.js"></script>
   </head>
   <body>
     <img style="display:none" src="assets/images/preview-laby.png" alt="sharing image" />
     
-    <button id="toggleMapBtn" onclick="toggleMinimap()">Hide Minimap</button>
+    <div id="ui-layer">
+        
+        <div id="hud-left" class="hud-panel">
+            <div class="webcam-container">
+                <div id="webgazer-target"></div>
+                <div class="scanner-overlay"></div>
+            </div>
+            <div class="hud-label">EYE TRACKING</div>
+        </div>
 
-    <button id="exportBtn" onclick="downloadMazeData()">Export Data (JSON)</button>
+        <div id="hud-top">
+            <button class="hud-btn" onclick="togglePanel('hud-left')" title="Toggle Camera">
+                <svg viewBox="0 0 24 24"><path fill="currentColor" d="M12 4.5C7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5zM12 17c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5zm0-8c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"/></svg>
+            </button>
+            <button class="hud-btn" onclick="togglePanel('hud-right')" title="Toggle Map">
+                <svg viewBox="0 0 24 24"><path fill="currentColor" d="M20.5 3l-.16.03L15 5.1 9 3 3.36 4.9c-.21.07-.36.25-.36.48V20.5c0 .28.22.5.5.5l.16-.03L9 18.9l6 2.1 5.64-1.9c.21-.07.36-.25.36-.48V3.5c0-.28-.22-.5-.5-.5zM15 19l-6-2.11V5l6 2.11V19z"/></svg>
+            </button>
+            <button class="hud-btn warning" id="btn-export" onclick="downloadMazeData()" title="Export Data">
+                <svg viewBox="0 0 24 24"><path fill="currentColor" d="M19 9h-4V3H9v6H5l7 7 7-7zM5 18v2h14v-2H5z"/></svg>
+            </button>
+        </div>
+
+        <div id="hud-right" class="hud-panel">
+            <div id="minimap-container">
+                <canvas id="minimap"></canvas>
+                <canvas id="objects"></canvas>
+            </div>
+            <div class="hud-label">SYSTEM MAP</div>
+        </div>
+
+    </div>
 
     <div id="canvasContainer" style="position:relative">
-      <div id="map">
-        <canvas id="minimap"></canvas>
-        <canvas id="objects"></canvas>
-      </div>
-    </div>
+       </div>
+
     <audio id="bumpSound">
       <source src="assets/sound/bat.mp3" />
       <source src="assets/sound/bat.ogg" />
     </audio>
+
     <script src="assets/js/three.min.js"></script>
     <script src="assets/js/Demonixis.Input.js"></script>
     <script src="assets/js/Demonixis.Minimap.js"></script>
@@ -89,19 +60,17 @@
     <script src="assets/js/maze3d.js"></script>
 
     <script>
-      function toggleMinimap() {
-        var mapDiv = document.getElementById('map');
-        var btn = document.getElementById('toggleMapBtn');
-        
-        // Check current display state
-        if (mapDiv.style.display === 'none') {
-          // Show it
-          mapDiv.style.display = 'block';
-          btn.innerText = 'Hide Minimap';
-        } else {
-          // Hide it
-          mapDiv.style.display = 'none';
-          btn.innerText = 'Show Minimap';
+      function togglePanel(panelId) {
+        var panel = document.getElementById(panelId);
+        if (panel) {
+            // 切换不透明度和点击事件，实现淡入淡出
+            if (panel.style.opacity === '0') {
+                panel.style.opacity = '1';
+                panel.style.pointerEvents = 'auto';
+            } else {
+                panel.style.opacity = '0';
+                panel.style.pointerEvents = 'none';
+            }
         }
       }
     </script>

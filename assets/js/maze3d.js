@@ -20,12 +20,12 @@
     var hasExit = false; 
 
     // === 数据采集变量 (Data Collection Variables) ===
-    var viewportLogs = []; // 存储视口停留数据
-    var minimapLogs = { hovers: {}, clicks: {} }; // 存储热图数据
-    var gazeLogs = []; // [NEW] 存储眼动追踪数据 (Gaze Logs)
-    var targets = {}; // 存储关键物体位置 {'Start': vec3, 'Exit': vec3}
+    var viewportLogs = []; 
+    var minimapLogs = { hovers: {}, clicks: {} }; 
+    var gazeLogs = []; 
+    var targets = {}; 
     var lastLogTime = 0;
-    var LOG_INTERVAL = 250; // 采样间隔：250毫秒
+    var LOG_INTERVAL = 250; 
 
     // === Minimap config & helpers ===
     var mapScale = 16; 
@@ -84,58 +84,61 @@
             }
         });
 
+        // 简化的开始提示，避免遮挡新UI
         var messageContainer = document.createElement("div");
         messageContainer.style.position = "absolute";
-        messageContainer.style.backgroundColor = "#666";
-        messageContainer.style.border = "1px solid #333";
+        messageContainer.style.top = "50%";
+        messageContainer.style.left = "50%";
+        messageContainer.style.transform = "translate(-50%, -50%)";
+        messageContainer.style.backgroundColor = "rgba(0,0,0,0.8)";
+        messageContainer.style.padding = "20px";
+        messageContainer.style.border = "1px solid #00f0ff";
+        messageContainer.style.borderRadius = "10px";
+        messageContainer.style.textAlign = "center";
+        messageContainer.style.zIndex = "2000";
 
-        var message = document.createElement("h1");
-        message.innerHTML = "Click to Start.<br>Use ARROW keys or WASD to move.<br><span style='color:#00ffff'>X-RAY, GAZE & DATA COLLECTION ON</span>";
-        message.style.textAlign = "center";
-        message.style.color = "#ddd";
-        message.style.padding = "15px";
-        messageContainer.appendChild(message);
+        messageContainer.innerHTML = 
+            "<h2 style='color:#00f0ff; margin:0 0 10px 0'>SYSTEM READY</h2>" +
+            "<p style='color:#fff'>Click to Start<br>Use WASD to Move</p>";
 
         document.body.appendChild(messageContainer);
 
-        messageContainer.style.left = (window.innerWidth / 2 - messageContainer.offsetWidth / 2) + "px";
-        messageContainer.style.top = (window.innerHeight / 2 - messageContainer.offsetHeight / 2) + "px";
-
         var timer = setTimeout(function() {
-            clearTimeout(timer);
             if(document.body.contains(messageContainer)) {
                 document.body.removeChild(messageContainer);
             }
         }, 5000);
 
         setupPointerLock();
-
-        // --- 初始化 Minimap 事件监听 (交互热图) ---
         setupMinimapTracking();
     }
 
     // 设置小地图交互追踪
     function setupMinimapTracking() {
-        var minimapCanvas = $("objects"); // 获取上层 Canvas
+        var minimapCanvas = $("objects"); 
         if (!minimapCanvas) {
-            setTimeout(setupMinimapTracking, 500); // 如果尚未加载完毕，稍后重试
+            setTimeout(setupMinimapTracking, 500); 
             return;
         }
 
         function getGridKey(e) {
             var rect = minimapCanvas.getBoundingClientRect();
-            var x = e.clientX - rect.left;
-            var y = e.clientY - rect.top;
+            // 需要考虑Canvas的缩放比例
+            var scaleX = minimapCanvas.width / rect.width;
+            var scaleY = minimapCanvas.height / rect.height;
+            
+            var x = (e.clientX - rect.left) * scaleX;
+            var y = (e.clientY - rect.top) * scaleY;
+            
             var gx = Math.floor(x / mapScale);
             var gy = Math.floor(y / mapScale);
-            // 确保坐标在地图范围内
+            
             if (gx >= 0 && gy >= 0 && map.length > 0 && gy < map.length && gx < map[0].length) {
                 return gx + "," + gy;
             }
             return null;
         }
 
-        // 记录悬停 (Hover)
         minimapCanvas.addEventListener('mousemove', function(e) {
             var key = getGridKey(e);
             if (key) {
@@ -144,7 +147,6 @@
             }
         });
 
-        // 记录点击 (Click)
         minimapCanvas.addEventListener('click', function(e) {
             var key = getGridKey(e);
             if (key) {
@@ -154,16 +156,13 @@
         });
     }
 
-    // [NEW] 初始化 WebGazer 眼动追踪
+    // [MODIFIED] 初始化 WebGazer UI 并移动到 HUD
     function initWebGazer() {
         if (typeof webgazer !== 'undefined') {
-            // 开启回归分析预测，并设置监听器
             webgazer.setGazeListener(function(data, elapsedTime) {
                 if (data == null) {
                     return;
                 }
-                // 记录眼动数据
-                // data.x 和 data.y 是相对于浏览器视口的坐标
                 gazeLogs.push({
                     timestamp: Date.now(),
                     x: Math.round(data.x),
@@ -171,43 +170,52 @@
                 });
             }).begin();
 
-            // 默认显示预测点 (红点)，如果不需要可以通过 webgazer.showPredictionPoints(false) 关闭
-            webgazer.showVideoPreview(true); // 显示摄像头预览以便调试/校准
+            webgazer.showVideoPreview(true);
             
-            // 样式调整：确保摄像头预览在左下角，不遮挡 Minimap
+            // --- 关键修改：将 WebGazer 的元素移动到我们自定义的 HUD 容器中 ---
             var checkGazerUI = setInterval(function(){
                 var video = document.getElementById('webgazerVideoFeed');
-                if(video) {
-                    video.style.top = 'auto';
-                    video.style.bottom = '0px';
-                    video.style.left = '0px';
-                    
-                    var canvas = document.getElementById('webgazerVideoCanvas');
-                    if (canvas) {
-                        canvas.style.top = 'auto';
-                        canvas.style.bottom = '0px';
-                        canvas.style.left = '0px';
+                var target = document.getElementById('webgazer-target');
+                
+                // 只有当视频元素生成，且目标容器存在时才执行
+                if (video && target) {
+                    if (video.parentElement !== target) {
+                        // 清空目标容器，防止重复
+                        target.innerHTML = '';
+                        
+                        // 移动视频元素
+                        target.appendChild(video);
+                        
+                        // 移动 Canvas (面部网格) 和 Feedback Box (定位框)
+                        var canvas = document.getElementById('webgazerVideoCanvas');
+                        var faceOverlay = document.getElementById('webgazerFaceOverlay');
+                        var feedbackBox = document.getElementById('webgazerFaceFeedbackBox');
+
+                        if(canvas) target.appendChild(canvas);
+                        if(faceOverlay) target.appendChild(faceOverlay);
+                        if(feedbackBox) target.appendChild(feedbackBox);
+
+                        // 强制重置样式以适应圆形容器
+                        var elements = [video, canvas, faceOverlay, feedbackBox];
+                        elements.forEach(function(el) {
+                            if(el) {
+                                el.style.position = 'absolute';
+                                el.style.top = '0';
+                                el.style.left = '0';
+                                el.style.width = '100%';
+                                el.style.height = '100%';
+                                el.style.objectFit = 'cover'; // 保证画面填满圆形
+                                el.style.transform = 'scaleX(-1)'; // 镜像翻转，符合镜子习惯
+                            }
+                        });
+
+                        console.log("HUD: WebGazer UI integrated.");
+                        clearInterval(checkGazerUI);
                     }
-                    
-                    var faceOverlay = document.getElementById('webgazerFaceOverlay');
-                    if (faceOverlay) {
-                        faceOverlay.style.top = 'auto';
-                        faceOverlay.style.bottom = '0px';
-                        faceOverlay.style.left = '0px';
-                    }
-                    
-                    var feedbackBox = document.getElementById('webgazerFaceFeedbackBox');
-                    if (feedbackBox) {
-                        feedbackBox.style.top = 'auto';
-                        feedbackBox.style.bottom = '0px';
-                        feedbackBox.style.left = '0px';
-                    }
-                    
-                    clearInterval(checkGazerUI);
                 }
-            }, 500);
+            }, 500); 
         } else {
-            console.warn("WebGazer not found. Make sure to include the script.");
+            console.warn("WebGazer not found.");
         }
     }
 
@@ -249,10 +257,9 @@
         hasExit = false;
         if(guideLine) { scene.remove(guideLine); guideLine = null; }
         
-        // 重置采集数据
         viewportLogs = [];
         minimapLogs = { hovers: {}, clicks: {} };
-        gazeLogs = []; // [NEW] 重置眼动数据
+        gazeLogs = []; 
         targets = {}; 
 
         var loader = new THREE.TextureLoader();
@@ -287,7 +294,6 @@
         });
         repeatTexture(wallMaterial.map, 2);
 
-        // --- 透视材质 ---
         var xrayMaterial = new THREE.MeshBasicMaterial({
             color: 0x0088ff, 
             wireframe: true,
@@ -297,7 +303,6 @@
             opacity: 0.4
         });
 
-        // Map generation
         for (var y = 0, ly = map.length; y < ly; y++) {
             for (var x = 0, lx = map[x].length; x < lx; x++) {
                 position.x = -platformWidth / 2 + size.x * x;
@@ -330,7 +335,6 @@
                     cameraHelper.origin.position.mapY = y;
                     cameraHelper.origin.position.mapZ = 0;
                     
-                    // 记录起点位置用于数据采集
                     targets['Start'] = new THREE.Vector3(position.x, position.y, position.z);
                 }
 
@@ -344,7 +348,6 @@
                     goalMesh.position.set(position.x, position.y, position.z);
                     scene.add(goalMesh);
 
-                    // 记录终点位置用于数据采集
                     targets['Exit'] = new THREE.Vector3(position.x, position.y, position.z);
                 }
             }
@@ -420,7 +423,7 @@
         var p = worldToTileFloat(camera.position.x, camera.position.z);
         var px = p.tx, py = p.ty;
 
-        ctx.fillStyle = "black";
+        ctx.fillStyle = "#00f0ff"; // 改为青色以匹配 HUD
         ctx.fillRect(px*mapScale - 2, py*mapScale - 2, 4, 4);
 
         var fov = 80 * Math.PI / 180;
@@ -428,7 +431,7 @@
         var half = fov / 2;
         var base = -camera.rotation.y + Math.PI/2 + Math.PI; 
 
-        ctx.strokeStyle = "rgba(0,0,0,0.25)";
+        ctx.strokeStyle = "rgba(0, 240, 255, 0.4)"; // 改为青色射线
         ctx.lineWidth = 0.5;
         var maxD = Math.max(map.length, map[0].length);
 
@@ -444,79 +447,44 @@
     }
 
     function update() {
-        // 方向键
-        if (input.keys.up) {
-            moveCamera("up");
-        } else if (input.keys.down) {
-            moveCamera("down");
-        }
-        if (input.keys.left) {
-            moveCamera("left");
-        } else if (input.keys.right) {
-            moveCamera("right");
-        }
+        if (input.keys.up) moveCamera("up");
+        else if (input.keys.down) moveCamera("down");
+        if (input.keys.left) moveCamera("left");
+        else if (input.keys.right) moveCamera("right");
 
-        // WASD
-        if (_keys.w) {
-            moveCamera("up");
-        } else if (_keys.s) {
-            moveCamera("down");
-        }
-        if (_keys.a) {
-            moveCamera("left");
-        } else if (_keys.d) {
-            moveCamera("right");
-        }
+        if (_keys.w) moveCamera("up");
+        else if (_keys.s) moveCamera("down");
+        if (_keys.a) moveCamera("left");
+        else if (_keys.d) moveCamera("right");
 
-        // Virtual pad
-        var params = {
-            rotation: 0.05,
-            translation: 5
-        };
-
-        if (input.joykeys.up) {
-            moveCamera("up", params);
-        } else if (input.joykeys.down) {
-            moveCamera("down", params);
-        }
-
-        if (input.joykeys.left) {
-            moveCamera("left", params);
-        } else if (input.joykeys.right) {
-            moveCamera("right", params);
-        }
+        var params = { rotation: 0.05, translation: 5 };
+        if (input.joykeys.up) moveCamera("up", params);
+        else if (input.joykeys.down) moveCamera("down", params);
+        if (input.joykeys.left) moveCamera("left", params);
+        else if (input.joykeys.right) moveCamera("right", params);
 
         updateMiniMapOverlay();
 
-        // --- 更新透视导航线 ---
         if (guideLine && hasExit) {
             guideLine.geometry.vertices[0].copy(camera.position);
             guideLine.geometry.vertices[0].y -= 15; 
             guideLine.geometry.verticesNeedUpdate = true;
         }
 
-        // === 视口停留时间数据采集逻辑 ===
         var now = Date.now();
         if (now - lastLogTime > LOG_INTERVAL) {
-            // 1. 获取相机朝向矢量
             var camDir = new THREE.Vector3();
             camera.getWorldDirection(camDir);
             
-            // 2. 准备数据条目
             var entry = {
                 timestamp: now,
-                // 简单的位置和旋转数据
                 cameraPos: { x: camera.position.x.toFixed(2), y: camera.position.y.toFixed(2), z: camera.position.z.toFixed(2) },
-                // 计算与关键目标（Start, Exit）的夹角
                 targetAngles: {}
             };
             
-            // 3. 计算夹角
             for (var tName in targets) {
                 var tPos = targets[tName];
-                // 从相机指向目标的向量
                 var toTarget = new THREE.Vector3().subVectors(tPos, camera.position).normalize();
-                // 计算夹角 (弧度 -> 角度)
                 var angle = camDir.angleTo(toTarget) * (180 / Math.PI);
                 entry.targetAngles[tName] = angle.toFixed(2);
             }
@@ -532,10 +500,7 @@
 
     function moveCamera(direction, delta) {
         var collides = false;
-        var position = {
-            x: camera.position.x,
-            z: camera.position.z
-        };
+        var position = { x: camera.position.x, z: camera.position.z };
         var rotation = camera.rotation.y;
         var offset = 75;
 
@@ -601,8 +566,6 @@
     function endScreen() {
         if (levelHelper.isFinished || levelHelper.isMobile) {
             alert("Good job, The game is over\n\nDon't forget to export your data!");
-            // 游戏结束后不自动刷新，以便用户导出数据
-            // document.location.reload(); 
         } else {
             for (var i = 0, l = scene.children.length; i < l; i++) {
                 scene.remove(scene.children[i]);
@@ -641,7 +604,7 @@
 
     window.onload = function() {
         initializeEngine();
-        initWebGazer(); // [NEW] 启动眼动追踪
+        initWebGazer(); 
 
         var level = 1; 
         if (level > 0 || level <= levelHelper.count) {
@@ -655,7 +618,6 @@
         }
     };
 
-    // === 数据导出函数 ===
     window.downloadMazeData = function() {
         var combinedData = {
             sessionInfo: {
@@ -669,7 +631,7 @@
             },
             minimapHeatmap: minimapLogs,
             viewportDwellTime: viewportLogs,
-            eyeTracking: gazeLogs // [NEW] 导出眼动数据
+            eyeTracking: gazeLogs 
         };
 
         var blob = new Blob([JSON.stringify(combinedData, null, 2)], {type : 'application/json'});
