@@ -586,7 +586,9 @@
     }
 
     function endScreen() {
-        if (levelHelper.isFinished || levelHelper.isMobile) {
+// 【修改】添加 "true ||" 强制进入结束流程
+    // 以后如果想恢复多关卡模式，只需把 "true ||" 删掉即可
+    if (true || levelHelper.isFinished || levelHelper.isMobile) {
             alert("Good job, The game is over\n\nDon't forget to export your data!");
         } else {
             for (var i = 0, l = scene.children.length; i < l; i++) {
