@@ -294,14 +294,28 @@
         });
         repeatTexture(wallMaterial.map, 2);
 
+        // --- 核心修改部分开始 ---
+        // 1. 修改透视材质：关闭 wireframe，改用低透明度的填充
         var xrayMaterial = new THREE.MeshBasicMaterial({
             color: 0x0088ff, 
-            wireframe: true,
+            wireframe: false, // [修改] 关闭线框，消除对角线重叠
             depthTest: false, 
             depthWrite: false,
             transparent: true,
-            opacity: 0.4
+            opacity: 0.1 // [修改] 降低不透明度，仅保留淡淡的填充感，减少视觉遮挡
         });
+
+        // 2. 创建边缘几何体：只显示立方体的边缘，不显示对角线
+        var edgesGeometry = new THREE.EdgesGeometry(wallGeometry);
+        var edgesMaterial = new THREE.LineBasicMaterial({
+            color: 0x0088ff,
+            depthTest: false, // 保证能够穿透墙体看到
+            depthWrite: false,
+            transparent: true,
+            opacity: 0.4, // 边缘线稍微亮一点
+            linewidth: 1
+        });
+        // --- 核心修改部分结束 ---
 
         for (var y = 0, ly = map.length; y < ly; y++) {
             for (var x = 0, lx = map[x].length; x < lx; x++) {
@@ -316,14 +330,22 @@
                 }
 
                 if (map[y][x] > 1) {
+                    // 实体墙（正常渲染）
                     var wall3D = new THREE.Mesh(wallGeometry, wallMaterial);
                     wall3D.position.set(position.x, position.y, position.z);
                     scene.add(wall3D);
 
+                    // 透视填充体（淡淡的蓝色方块）
                     var xrayMesh = new THREE.Mesh(wallGeometry, xrayMaterial);
                     xrayMesh.position.set(position.x, position.y, position.z);
                     xrayMesh.scale.set(1.01, 1.01, 1.01); 
                     scene.add(xrayMesh);
+
+                    // [新增] 透视边缘线（清晰的边框，无对角线）
+                    var edgesMesh = new THREE.LineSegments(edgesGeometry, edgesMaterial);
+                    edgesMesh.position.set(position.x, position.y, position.z);
+                    edgesMesh.scale.set(1.01, 1.01, 1.01); // 缩放与透视填充体一致
+                    scene.add(edgesMesh);
                 }
 
                 if (map[y][x] === "D") {
